@@ -1,0 +1,104 @@
+baseURL = "//alex.flvr.top"
+languageCode = "en-US"
+title = "Alexander Pavlenko"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+copyright = ""
+googleAnalytics = ""
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Alexander Pavlenko"
+  description = "was here"
+  shareImage = "images/alex.icon.jpg"
+  twitterHandle = ""
+
+  # Favicon
+  favicon = "images/favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/alex.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+
+  [[params.links]]
+    [params.links.list1]
+      heading = "See"
+
+      [[params.links.list1.link]]
+        text = "Instagram"
+        url = "https://www.instagram.com/alerticus/"
+
+      [[params.links.list1.link]]
+        text = "DeviantArt"
+        url = "https://www.deviantart.com/alerticus"
+
+  [[params.links]]
+    [params.links.list2]
+      heading = "Hear"
+
+      [[params.links.list2.link]]
+        text = "Bandcamp"
+        url = "https://bandcamp.com/alerticus"
+
+      [[params.links.list2.link]]
+        text = "SoundCloud"
+        url = "https://soundcloud.com/alerticus"
+
+  [[params.links]]
+    [params.links.list3]
+      heading = "Speak"
+
+      [[params.links.list3.link]]
+        text = "Telegram"
+        url = "https://t.me/alerticus"
+
+      [[params.links.list3.link]]
+        text = "Email"
+        url = "mailto:alerticus@pm.me"
+
+  [[params.links]]
+    [params.links.list4]
+      heading = "Read"
+
+      [[params.links.list4.link]]
+        text = "Posts"
+        url = "https://vk.com/wall7848621?own=1"
+
+      [[params.links.list4.link]]
+        text = "Books"
+        url = "https://readrate.com/rus/users/14776/books"
+
+  [[params.links]]
+    [params.links.list5]
+      heading = "Play"
+
+      [[params.links.list5.link]]
+        text = "Steam"
+        url = "https://steamcommunity.com/id/alerticus/games/?tab=all&sort=playtime"
+
+      [[params.links.list5.link]]
+        text = "GOG"
+        url = "https://www.gog.com/u/Alerticus/games?sort=total_playtime&order=desc"
+
+  [[params.links]]
+    [params.links.list6]
+      heading = "Build"
+
+      [[params.links.list6.link]]
+        text = "GitHub"
+        url = "https://github.com/AlexanderPavlenko"

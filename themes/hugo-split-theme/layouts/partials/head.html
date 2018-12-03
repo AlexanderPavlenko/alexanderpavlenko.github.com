@@ -1,0 +1,41 @@
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<!-- SEO -->
+<title>{{ if .IsPage }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+{{ with .Site.Params.author }}<meta name="author" content="{{ . }}" />{{ end }}
+{{ with .Site.Params.description }}<meta name="description" content="{{ . }}" />{{ end }}
+<meta name="robots" content="index, follow" />
+<meta name="referrer" content="always" />
+
+<!-- Social & Open Graph -->
+<meta property="og:title" content="{{ if .IsPage }}{{ .Title }} - {{ end }}{{ .Site.Title }}" />
+{{ with .Site.Params.description }}<meta property="og:description" content="{{ . }}" />{{ end }}
+<meta property="og:url" content="{{ .Site.BaseURL }}" />
+{{ with .Site.Params.shareImage }}
+<meta property="og:image" content="{{ (resources.Get . | resources.Fingerprint "sha256").Permalink }}" />
+<meta name="twitter:card" content="summary_large_image" />
+{{ end }}
+{{ with .Site.Params.twitterHandle }}<meta name="twitter:site" content="@{{ . }}" />{{ end }}
+
+<!-- Favicon -->
+{{ with .Site.Params.favicon }}<link rel="icon" href="{{ (resources.Get . | resources.Fingerprint "sha256").Permalink }}" />{{ end }}
+
+<!-- Styles -->
+{{ $style := resources.Get "sass/split.scss" | resources.ToCSS (dict "targetPath" "css/style.css") | resources.Minify | resources.Fingerprint "sha256" }}
+<link rel="stylesheet" href="{{ $style.Permalink }}" type="text/css" media="screen" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+
+<!-- Image Styles -->
+{{ if .Site.Params.visual.image.enable }}
+  <style>
+  {{ if .Site.Params.visual.image.file }}
+    .fs-split .split-image { background-image: url("{{ (resources.Get .Site.Params.visual.image.file | resources.Fingerprint "sha256").Permalink }}"); background-position: {{ if .Site.Params.visual.image.position }}{{ .Site.Params.visual.image.position }}{{ else }}center center{{ end }}; }
+  {{ end }}
+  </style>
+{{ end }}
+
+<!-- Google Analytics -->
+{{ if and (.Site.GoogleAnalytics) (not (in (printf "%#v" .Site.BaseURL) "localhost")) }}
+  {{ template "_internal/google_analytics.html" . }}
+{{ end }}
