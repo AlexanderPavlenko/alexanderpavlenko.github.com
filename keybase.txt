@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/alerticus
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alex.flvr.top
+  * I am alerticus (https://keybase.io/alerticus) on keybase.
+  * I have a public key ASByGox377ikuk1WDDrNvnH1z6ea8jdsYl480BZPhwDZKAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010190d8e42d11954093a5b6feeda434ecc783d4e30e0a5a452fff5b1ce07904ca070a",
+      "host": "keybase.io",
+      "kid": "0120721a8c77efb8a4ba4d560c3acdbe71f5cfa79af2376c625e3cd0164f8700d9280a",
+      "uid": "677e1fb5812ce37153bebf0a3400d600",
+      "username": "alerticus"
+    },
+    "merkle_root": {
+      "ctime": 1548440897,
+      "hash": "132d970d5ee23b32e7d2271ef9c40419ec06e7e214acd73ba41f1c0ad39642c52772c1ffb84a6d7391ff7e1e81b619a4371504b3cad13d050d6e70d1c2e1c518",
+      "hash_meta": "85f7485cd07cdde35a6671a433ead2a4603f89ceadd756628dbddaad2cbeaaaa",
+      "seqno": 4614348
+    },
+    "service": {
+      "entropy": "zqpDQuBtEkgbRy+Gl4op06HH",
+      "hostname": "alex.flvr.top",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.10.1"
+  },
+  "ctime": 1548440922,
+  "expire_in": 504576000,
+  "prev": "6763dfc85088b50ce554df9cf2838aa988d36ede92d0ce8b5c002a8e0fbfd765",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgchqMd++4pLpNVgw6zb5x9c+nmvI3bGJePNAWT4cA2SgKp3BheWxvYWTESpcCG8QgZ2PfyFCItQzlVN+c8oOKqYjTbt6S0M6LXAAqjg+/12XEINzZ+duu/lrxWPlmLzT0mFLPkUllE5kaQeq39zgTDqeNAgHCo3NpZ8RAChpKLos2SfA5g7rWRM31aa0o9MKQssUIbf55Er7CXPTLcTvyoklQLfPYIsSwgBeqKuzjJc1usfu1JV1dd7AzBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAPQB8jXxQTM2X58G8FINdDNdaaz25KLaEANh8aCRKhHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alerticus
+
+==================================================================
