@@ -76,6 +76,10 @@ googleAnalytics = ""
       heading = "Read"
 
       [[params.links.list4.link]]
+        text = "Blog"
+        url = "blog/"
+
+      [[params.links.list4.link]]
         text = "Posts"
         url = "https://vk.com/wall7848621?own=1"
 
