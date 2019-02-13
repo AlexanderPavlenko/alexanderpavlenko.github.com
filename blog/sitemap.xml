@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//alex.flvr.top/blog/post/securing-the-hole/</loc>
+    <loc>https://alex.flvr.top/blog/post/securing-the-hole/</loc>
     <lastmod>2019-02-14T00:42:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>//alex.flvr.top/blog/</loc>
-    <lastmod>2019-02-14T00:42:00+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//alex.flvr.top/blog/tags/authentication/</loc>
+    <loc>https://alex.flvr.top/blog/</loc>
     <lastmod>2019-02-14T00:42:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alex.flvr.top/blog/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//alex.flvr.top/blog/tags/encryption/</loc>
+    <loc>https://alex.flvr.top/blog/tags/authentication/</loc>
     <lastmod>2019-02-14T00:42:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alex.flvr.top/blog/post/</loc>
+    <loc>https://alex.flvr.top/blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/tags/encryption/</loc>
     <lastmod>2019-02-14T00:42:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alex.flvr.top/blog/tags/security/</loc>
+    <loc>https://alex.flvr.top/blog/post/</loc>
     <lastmod>2019-02-14T00:42:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//alex.flvr.top/blog/tags/</loc>
+    <loc>https://alex.flvr.top/blog/tags/security/</loc>
+    <lastmod>2019-02-14T00:42:00+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/tags/</loc>
     <lastmod>2019-02-14T00:42:00+03:00</lastmod>
     <priority>0</priority>
   </url>
