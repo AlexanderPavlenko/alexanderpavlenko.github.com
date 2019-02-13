@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Securing the Hole :: Alexander Pavlenko — Blog</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="description" content="Let&amp;rsquo;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and on a used-once-years-ago online store. Carl uses the same credentials for each account, and the password is easy to remember – it&amp;rsquo;s his birthday.
+Today Carl needs to sign up on a really important website. From muscle memory, the first intention is to reuse the good old login/password. But what if it&amp;rsquo;s not so secret anymore?"/>
+<meta name="keywords" content="devops, security"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="//alex.flvr.top/blog/post/securing-the-hole/" />
+
+
+<link rel="stylesheet" href="//alex.flvr.top/blog/assets/style.css">
+
+  <link rel="stylesheet" href="//alex.flvr.top/blog/assets/blue.css">
+
+
+
+<link rel="stylesheet" href="//alex.flvr.top/blog/style.css">
+
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//alex.flvr.top/blog/img/apple-touch-icon-144-precomposed.png">
+
+  <link rel="shortcut icon" href="//alex.flvr.top/blog/img/favicon/blue.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Securing the Hole :: Alexander Pavlenko — Blog" />
+<meta name="twitter:description" content="Let&amp;rsquo;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and on a used-once-years-ago online store. Carl uses the same credentials for each account, and the password is easy to remember – it&amp;rsquo;s his birthday.
+Today Carl needs to sign up on a really important website. From muscle memory, the first intention is to reuse the good old login/password. But what if it&amp;rsquo;s not so secret anymore?" />
+<meta name="twitter:site" content="//alex.flvr.top/blog/" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:image" content="">
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Securing the Hole :: Alexander Pavlenko — Blog">
+<meta property="og:description" content="Let&amp;rsquo;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and on a used-once-years-ago online store. Carl uses the same credentials for each account, and the password is easy to remember – it&amp;rsquo;s his birthday.
+Today Carl needs to sign up on a really important website. From muscle memory, the first intention is to reuse the good old login/password. But what if it&amp;rsquo;s not so secret anymore?" />
+<meta property="og:url" content="//alex.flvr.top/blog/post/securing-the-hole/" />
+<meta property="og:site_name" content="Securing the Hole" />
+<meta property="og:image" content="">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2019-02-14 00:42:00 &#43;0300 MSK" />
+
+
+
+
+
+
+
+</head>
+<body class="">
+<div class="container">
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/blog/">
+  <div class="logo">
+    ☰
+  </div>
+</a>
+
+    </div>
+    <div class="menu-trigger">menu</div>
+  </div>
+  
+</header>
+
+
+  <div class="content">
+    
+  <div class="post">
+    <h1 class="post-title"><a href="//alex.flvr.top/blog/post/securing-the-hole/">Securing the Hole</a></h1>
+    <div class="post-meta">
+      <span class="post-date">
+        2019-02-14
+      </span>
+      
+    </div>
+
+    
+      <span class="post-tags">
+        
+          #<a href="//alex.flvr.top/blog/tags/security">security</a>&nbsp;
+        
+          #<a href="//alex.flvr.top/blog/tags/encryption">encryption</a>&nbsp;
+        
+          #<a href="//alex.flvr.top/blog/tags/authentication">authentication</a>&nbsp;
+        
+      </span>
+    
+
+    
+
+    <div class="post-content">
+      <p>Let&rsquo;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and on a used-once-years-ago online store. Carl uses the same credentials for each account, and the password is easy to remember – it&rsquo;s his birthday.</p>
+
+<p>Today Carl needs to sign up on a really important website. From muscle memory, the first intention is to reuse the good old login/password. But what if it&rsquo;s not so secret anymore? <a href="https://haveibeenpwned.com/">Have I Been Pwned</a> confirms his suspicion. Carl starts to consider his options:</p>
+
+<ul>
+<li>Make up a new password for each important account and remember it!</li>
+<li>Nope, I don&rsquo;t want to remember passwords which must contain a capital number, two hieroglyphs, an unprintable symbol, and the hyperspace.</li>
+<li>I can write down them on the piece of paper. With multiple carbon copies to store in different places in case I lose some and then will have to change all the passwords just in case.</li>
+<li>Probably it&rsquo;s better to keep them encrypted and digital. Easy backups, fast copy-paste.</li>
+<li>I can use <a href="https://keepass.info/">KeePass</a> and have a nice big encrypted database, readable even on an ancient mobile phone with J2ME, Carl! <br />
+Still, it looks to me as an unnecessary risk to decrypt it all just to access a single secret. Computer, what do you think?</li>
+<li>Computer says: <a href="https://en.wikipedia.org/wiki/GNU_Privacy_Guard">GnuPG</a> + <a href="https://www.gopass.pw/">gopass</a></li>
+<li>Cool. Secrets are separated into many small files for independent decryption. And if it&rsquo;s too command-liny, I can use the front-ends Iike <a href="https://qtpass.org/">QtPass</a> and <a href="https://github.com/zeapo/Android-Password-Store">Android Password Store</a></li>
+<li>At last! All seems in order. <br />
+But wait, what the fu&ndash; is this 2FA thing?</li>
+<li>Oh noes, another password! It&rsquo;s generated by a website and shown to me only once to QR-scan or copy-paste into a special program. This master secret gets transformed into a continuous stream of 6-digit single-use passwords. New password each minute — impossibru to steal or brute-force! <br />
+Still, it&rsquo;s as secure as a storage of the master secret.</li>
+<li>Enters U2F. Master secret is generated by a special hardware device and stored only in it. Login can be as simple as a hardware button press! I can check <a href="https://dongleauth.info/">DongleAuth</a> to see morons who have no U2F support yet.</li>
+<li>Such device may have multiple functions, including GnuPG encryption.</li>
+<li>Unfortunately, the device can be broken or lost, as it&rsquo;s not embedded into my body yet. This means some backup authentication method or a paper backup of the master secret is still needed.</li>
+</ul>
+
+<p>That was a lot of considering and Carl decides to switch his attention to some other things. He hopes his notes would be of some use to fellow characters. Maybe they will even <a href="https://github.com/AlexanderPavlenko/alexanderpavlenko.github.com/issues/new">comment</a> on what to improve?</p>
+
+<p>P.S. <a href="https://www.wired.com/story/macos-update-undoes-apple-root-bug-patch/">Sometimes passwords are just not needed!</a></p>
+
+    </div>
+    
+  </div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright copyright--user"><div style="font-size:0.5rem"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Blog</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://alex.flvr.top/" property="cc:attributionName" rel="cc:attributionURL">Alexander Pavlenko</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></div></div>
+    
+  </div>
+</footer>
+
+<script src="//alex.flvr.top/blog/assets/main.js"></script>
+<script src="//alex.flvr.top/blog/assets/prism.js"></script>
+
+  
+</div>
+
+</body>
+</html>

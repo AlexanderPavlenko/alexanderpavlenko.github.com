@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Alexander Pavlenko</title>
+    <link>//alex.flvr.top/blog/tags/security/</link>
+    <description>Recent content in Security on Alexander Pavlenko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;div style=&#34;font-size:0.5rem&#34;&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Blog&lt;/span&gt; by &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;https://alex.flvr.top/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Alexander Pavlenko&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;&lt;/div&gt;</copyright>
+    <lastBuildDate>Thu, 14 Feb 2019 00:42:00 +0300</lastBuildDate>
+    
+	<atom:link href="//alex.flvr.top/blog/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Securing the Hole</title>
+      <link>//alex.flvr.top/blog/post/securing-the-hole/</link>
+      <pubDate>Thu, 14 Feb 2019 00:42:00 +0300</pubDate>
+      
+      <guid>//alex.flvr.top/blog/post/securing-the-hole/</guid>
+      <description>Let&amp;rsquo;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and on a used-once-years-ago online store. Carl uses the same credentials for each account, and the password is easy to remember – it&amp;rsquo;s his birthday.
+Today Carl needs to sign up on a really important website. From muscle memory, the first intention is to reuse the good old login/password. But what if it&amp;rsquo;s not so secret anymore?</description>
+    </item>
+    
+  </channel>
+</rss>
