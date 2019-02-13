@@ -1,5 +1,5 @@
-baseURL = "//alex.flvr.top"
-languageCode = "en-US"
+baseURL = "https://alex.flvr.top/"
+languageCode = "en-us"
 title = "Alexander Pavlenko"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
@@ -77,7 +77,7 @@ googleAnalytics = ""
 
       [[params.links.list4.link]]
         text = "Blog"
-        url = "blog/"
+        url = "https://alex.flvr.top/blog/"
 
       [[params.links.list4.link]]
         text = "Posts"
