@@ -8,7 +8,7 @@ tags:
 - authentication
 ---
 
-Let's start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and on a used-once-years-ago online store. Carl uses the same credentials for each account, and the password is easy to remember – it's his birthday.
+Let's start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and an online store visited once few years ago. Carl uses the same credentials for each account, and the password is easy to remember – it's his birthday.
 
 Today Carl needs to sign up on a really important website. From muscle memory, the first intention is to reuse the good old login/password. But what if it's not so secret anymore? [Have I Been Pwned][0] confirms his suspicion. Carl starts to consider his options:
 
