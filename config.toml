@@ -8,6 +8,9 @@ paginate = 5
   themeColor = "blue"
   showMenuItems = 0
 
+[taxonomies]
+  tag = "tags"
+
 [languages]
   [languages.en]
     title = "Alexander Pavlenko"
