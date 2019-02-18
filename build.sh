@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 cd $(dirname "${0}")
-hugo --cleanDestinationDir
-cd ../homepage-blog
-hugo --cleanDestinationDir
+hugo --cleanDestinationDir --destination ../master
+cd ../blog
+hugo --cleanDestinationDir --destination ../master/blog
 
