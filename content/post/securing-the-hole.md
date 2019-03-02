@@ -38,7 +38,7 @@ P.S. [Sometimes passwords are just not needed!][7]
 [3]: https://www.gopass.pw/
 [4]: https://qtpass.org/
 [5]: https://github.com/zeapo/Android-Password-Store
-[6]: https://dongleauth.info/
+[6]: https://www.dongleauth.info/
 [7]: https://www.wired.com/story/macos-update-undoes-apple-root-bug-patch/
-[8]: https://github.com/AlexanderPavlenko/alexanderpavlenko.github.com/issues/new
+[8]: https://github.com/AlexanderPavlenko/alexanderpavlenko.github.com/issues
 
