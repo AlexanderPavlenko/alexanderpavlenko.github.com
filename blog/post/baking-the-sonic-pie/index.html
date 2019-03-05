@@ -23,7 +23,6 @@ Today I got curious to explore Sonic Pi and its integration with DAW via MIDI in
 <link rel="stylesheet" href="https://alex.flvr.top/blog/style.css">
 
 
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://alex.flvr.top/blog/img/apple-touch-icon-144-precomposed.png">
 
   <link rel="shortcut icon" href="https://alex.flvr.top/blog/img/favicon/blue.png">
 
@@ -102,7 +101,9 @@ Today I got curious to explore Sonic Pi and its integration with DAW via MIDI in
     
 
     <div class="post-content">
-      <p>There is already <a href="https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba">an article</a> which sings praises to <a href="https://www.ruby-lang.org/en/">Ruby</a>. <br />
+      
+
+<p>There is already <a href="https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba">an article</a> which sings praises to <a href="https://www.ruby-lang.org/en/">Ruby</a>. <br />
 And so does the author of <a href="https://sonic-pi.net/">Sonic Pi</a>.</p>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0lTZ8Tuyu5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -116,6 +117,14 @@ Except when you have <a href="https://www.oliversacks.com/books-by-oliver-sacks/
 <iframe width="560" height="315" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/577429878&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 <p>To render all these MIDI notes into the sound, I used <a href="https://www.propellerheads.com/en/reason">Propellerhead Reason</a>. It did help to create <a href="https://koshdukaimusicreason.blogspot.com/2015/09/generic-midi-channel-aware-remote.html">per-channel controllers</a> and assign them to the instruments via &ldquo;Surface locking.&rdquo;</p>
+
+<hr />
+
+<h2 id="with-comfort">With comfort</h2>
+
+<p>Sonic Pi looks nice, but its code editor is not yet as powerful as a professional IDE. So I started my <a href="https://www.jetbrains.com/ruby/">RubyMine</a>, and after a few edit-save-reload cycles, it became apparent that a bit more integration is needed. With a few <a href="https://in-thread.sonic-pi.net/t/buffer-autoreload-on-external-file-change-event/2075?u=alerticus">helpful hints</a> from the Sonic Pi community, I implemented a <a href="https://github.com/AlexanderPavlenko/sonic-pi-works/blob/master/autoreload.rb">reload function</a> which is triggered automatically when the file is saved. Also, I checked out Sonic Pi source code and extracted <a href="https://github.com/AlexanderPavlenko/sonic-pi-works/tree/master/stubs">documentation</a> from it. The <code>yard.rb</code> file, when placed into the project dir, does enable the smarts, like the code autocompletion, analysis, and instant help.</p>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DmvJsUnMjaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>P.S. Sometimes writing code for fun is a nice break from writing code for a living!</p>
 
@@ -147,7 +156,7 @@ Except when you have <a href="https://www.oliversacks.com/books-by-oliver-sacks/
     <footer class="footer">
   <div class="footer__inner">
     
-      <div class="copyright copyright--user"><div style="font-size:0.5rem"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Blog</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://alex.flvr.top/" property="cc:attributionName" rel="cc:attributionURL">Alexander Pavlenko</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></div></div>
+      <div class="copyright copyright--user"><div style="font-size:0.5rem"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Blog</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="https://alex.flvr.top/" property="cc:attributionName" rel="cc:attributionURL">Alexander Pavlenko</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></div></div>
     
   </div>
 </footer>
