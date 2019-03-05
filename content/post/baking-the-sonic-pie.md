@@ -22,6 +22,14 @@ Today I got curious to explore Sonic Pi and its [integration with DAW via MIDI][
 
 To render all these MIDI notes into the sound, I used [Propellerhead Reason][9]. It did help to create [per-channel controllers][10] and assign them to the instruments via "Surface locking."
 
+-------------------
+
+## With comfort ##
+
+Sonic Pi looks nice, but its code editor is not yet as powerful as a professional IDE. So I started my [RubyMine][11], and after a few edit-save-reload cycles, it became apparent that a bit more integration is needed. With a few [helpful hints][12] from the Sonic Pi community, I implemented a [reload function][13] which is triggered automatically when the file is saved. Also, I checked out Sonic Pi source code and extracted [documentation][14] from it. The `yard.rb` file, when placed into the project dir, does enable the smarts, like the code autocompletion, analysis, and instant help.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DmvJsUnMjaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 P.S. Sometimes writing code for fun is a nice break from writing code for a living!
 
 [1]: https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba
@@ -34,3 +42,7 @@ P.S. Sometimes writing code for fun is a nice break from writing code for a livi
 [8]: https://github.com/AlexanderPavlenko/sonic-pi-works/blob/master/Sequencer.rb
 [9]: https://www.propellerheads.com/en/reason
 [10]: https://koshdukaimusicreason.blogspot.com/2015/09/generic-midi-channel-aware-remote.html
+[11]: https://www.jetbrains.com/ruby/
+[12]: https://in-thread.sonic-pi.net/t/buffer-autoreload-on-external-file-change-event/2075?u=alerticus
+[13]: https://github.com/AlexanderPavlenko/sonic-pi-works/blob/master/autoreload.rb
+[14]: https://github.com/AlexanderPavlenko/sonic-pi-works/tree/master/stubs

@@ -38,3 +38,8 @@ div.post-content {
   font-family: iA Writer QuattroS,Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
+h1{font-size:1.4rem}
+h2{font-size:1.3rem}
+h3{font-size:1.2rem}
+h4,h5,h6{font-size:1.1rem}
+
