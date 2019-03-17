@@ -1,6 +1,6 @@
 ---
 title: "Climbing the Tree"
-date: 2019-03-17T05:12:00+03:00
+date: 2019-03-17T05:21:00+03:00
 tags:
 - visualize
 - needs
@@ -10,11 +10,10 @@ tags:
 Some time ago I discovered [Manfred Max-Neef's Fundamental human needs][] taxonomy:
 
 > Unlike Maslow's Hierarchy of Needs, which focuses on a hierarchy of psychological needs, Max-Neef talks about needs that are complementary, all of which are necessary to achieve satisfaction.
-<a href="https://commons.wikimedia.org/wiki/File:MaslowsHierarchyOfNeeds.svg#/media/File:MaslowsHierarchyOfNeeds.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/MaslowsHierarchyOfNeeds.svg" alt="MaslowsHierarchyOfNeeds.svg" height="145" width="205"></a>
 
 Indeed, the Maslow's hierarchy seems to me kind of opinionated and arbitrary.\
-If only The Game was as simple as reaching the imaginary top of the infinite ladder.\
-If only there were no such stories when self-actualization comes with the loss of some or all goodies listed below it, including one's life.
+If only the game was as simple as reaching the imaginary top, somewhere across the infinite ladder.\
+If only there were no such stories when self-actualization comes with the loss of some or all goodies listed below it.
 
 Perhaps there are enough pyramids in the world already, and this one has to go.
 
@@ -24,9 +23,10 @@ According to [Marshall Rosenberg][], my needs may be exactly the same as of any 
 
 ## Branches ##
 
-<div class="mermaid">
-%% If you read this text, it means MermaidJS does not work in this browser as expected :(
+Each edge represents a prediction that with some probability X leads to Y.\
+It's only a draft, of course.
 
+{{< diagram >}}
 graph LR
 
 %% Means
@@ -62,7 +62,7 @@ click Health "#health"
 click Play "#play"
 click Dream "#dream"
 click Grow "#grow"
-</div>
+{{< /diagram >}}
 
 ### Means ###
 
@@ -82,7 +82,7 @@ click Grow "#grow"
 
 #### Change ####
 
-- The only constant?
+- [It's possible and inevitable in general][]
 
 #### Health ####
 
@@ -103,7 +103,6 @@ click Grow "#grow"
 - Spiral out 🌀 Keep going
 
 
-
 [Manfred Max-Neef's Fundamental human needs]: https://en.wikipedia.org/wiki/Manfred_Max-Neef%27s_Fundamental_human_needs
 [Marshall Rosenberg]: https://en.wikipedia.org/wiki/Nonviolent_Communication
 [means and ends]: https://www.lesswrong.com/posts/n5ucT5ZbPdhfGNLtP/terminal-values-and-instrumental-values
@@ -112,22 +111,7 @@ click Grow "#grow"
 [Probably]: https://en.wikipedia.org/wiki/Bayesian_inference
 [common currency of caring]: https://www.lesswrong.com/posts/ZpDnRCeef2CLEFeKM/money-the-unit-of-caring
 [lucid dream]: https://en.wikipedia.org/wiki/Lucid_dream
+[It's possible and inevitable in general]: https://www.lesswrong.com/posts/iETtCZcfmRyHp69w4/can-the-chain-still-hold-you
 
 
-
-<script src="https://unpkg.com/mermaid@8.0.0/dist/mermaid.min.js" type="text/javascript"></script>
-<script type="text/javascript">
-mermaid.initialize({ 
-  theme: 'dark',
-  themeCSS: '\
-    .cluster rect { fill: transparent !important; } \
-    .edgePath .path { stroke: white !important; } \
-    .label { font-family: "iA Writer QuattroS" !important; }',
-  cloneCssStyles: false,
-  useMaxWidth: true,
-  htmlLabels: false,
-  flowchart: { 
-    curve: 'basis' 
-  }
-});
-</script>
+{{< mermaidjs >}}

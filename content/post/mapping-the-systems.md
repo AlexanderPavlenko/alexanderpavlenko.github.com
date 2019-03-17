@@ -1,6 +1,6 @@
 ---
 title: "Mapping the Systems"
-date: 2019-03-14T23:34:57+03:00
+date: 2019-03-17T05:12:00+03:00
 tags:
 - visualize
 - toys
@@ -12,7 +12,7 @@ I think it's cool to be able to create various diagrams just by declaring them i
 [MermaidJS]: https://mermaidjs.github.io/
 [Typora]: https://typora.io/
 
-<div class="mermaid">
+{{< diagram >}}
 graph LR
 subgraph Digital Organs
 
@@ -79,22 +79,6 @@ Player --> Audial
 Reader ==> Text
 
 Flashlight --> White
+{{< /diagram >}}
 
-</div>
-
-<script src="https://unpkg.com/mermaid@8.0.0/dist/mermaid.min.js" type="text/javascript"></script>
-<script type="text/javascript">
-mermaid.initialize({ 
-  theme: 'dark',
-  themeCSS: '\
-    .cluster rect { fill: transparent !important; } \
-    .edgePath .path { stroke: white !important; } \
-    .label { font-family: "iA Writer QuattroS" !important; }',
-  cloneCssStyles: false,
-  useMaxWidth: true,
-  htmlLabels: false,
-  flowchart: { 
-    curve: 'basis' 
-  }
-});
-</script>
+{{< mermaidjs >}}
