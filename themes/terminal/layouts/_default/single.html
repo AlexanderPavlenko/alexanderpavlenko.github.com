@@ -23,6 +23,17 @@
     <div class="post-content">
       {{ .Content }}
     </div>
+
+    <hr/>
+    <script src="https://utteranc.es/client.js"
+        repo="AlexanderPavlenko/alexanderpavlenko.github.com"
+        issue-term="pathname"
+        label="utterance"
+        theme="dark-blue"
+        crossorigin="anonymous"
+        async>
+    </script>
+
     {{ if or .NextInSection .PrevInSection }}
       <div class="pagination">
         <div class="pagination__title">
