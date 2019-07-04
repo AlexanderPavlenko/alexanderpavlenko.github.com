@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;div style=&#34;font-size:0.5rem&#34;&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Blog&lt;/span&gt; by &lt;a xmlns:cc=&#34;https://creativecommons.org/ns#&#34; href=&#34;https://alex.flvr.top/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Alexander Pavlenko&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;&lt;/div&gt;</copyright>
-    <lastBuildDate>Sun, 17 Mar 2019 05:21:00 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2019 04:20:00 +0300</lastBuildDate>
     
 	<atom:link href="https://alex.flvr.top/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Slicing the Beat</title>
+      <link>https://alex.flvr.top/blog/post/slicing-the-beat/</link>
+      <pubDate>Thu, 04 Jul 2019 04:20:00 +0300</pubDate>
+      
+      <guid>https://alex.flvr.top/blog/post/slicing-the-beat/</guid>
+      <description>In this post I will continue the exploration of Sonic Pi.
+So far, I wrote the sequencer, and then found myself reading about the polyrhythms:
+ From the philosophical perspective of the African musician, cross-beats can symbolize the challenging moments or emotional stress we all encounter. Playing cross-beats while fully grounded in the main beats, prepares one for maintaining a life-purpose while dealing with life&amp;rsquo;s challenges. Many non-Saharan languages do not have a word for rhythm, or even music.</description>
+    </item>
     
     <item>
       <title>Climbing the Tree</title>
