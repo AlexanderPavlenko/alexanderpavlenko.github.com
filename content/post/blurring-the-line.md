@@ -18,6 +18,8 @@ Still, it doesn't yet seem to be fully acknowledged as a wondrous achievement se
 
 To be honest, I didn't think much about this topic before, dismissing it as something irrelevant to me. Which is kinda self-contradictory, because I like the Psychic TV's music and the [Wachowskis' movies][Sense8]. And now I also love the [Natalie Wynn's channel][ContraPoints], which is full of splendid characters, serious discussions, jokes and poetry.
 
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/345V6_8wMH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [The Left Hand of Darkness]: https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness
 [history]: https://blogs.scientificamerican.com/guest-blog/a-history-of-transgender-health-care/
 [Sense8]: https://en.wikipedia.org/wiki/Sense8
