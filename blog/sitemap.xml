@@ -116,4 +116,15 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>https://alex.flvr.top/blog/tags/nvc/</loc>
+    <lastmod>2017-08-18T20:39:00+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/post/rationally-grateful/</loc>
+    <lastmod>2017-08-18T20:39:00+03:00</lastmod>
+  </url>
+  
 </urlset>
