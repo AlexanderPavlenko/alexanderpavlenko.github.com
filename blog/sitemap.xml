@@ -4,8 +4,27 @@
   
   <url>
     <loc>https://alex.flvr.top/blog/</loc>
-    <lastmod>2019-07-08T13:00:00+03:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-09-02T17:50:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/post/comprehending-diversity/</loc>
+    <lastmod>2019-09-02T17:50:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/tags/gender/</loc>
+    <lastmod>2019-09-02T17:50:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/post/</loc>
+    <lastmod>2019-09-02T17:50:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/tags/</loc>
+    <lastmod>2019-09-02T17:50:00+03:00</lastmod>
   </url>
   
   <url>
@@ -14,44 +33,23 @@
   </url>
   
   <url>
-    <loc>https://alex.flvr.top/blog/post/</loc>
-    <lastmod>2019-07-08T13:00:00+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/</loc>
-    <lastmod>2019-07-08T13:00:00+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://alex.flvr.top/blog/tags/fiction/</loc>
     <lastmod>2019-07-08T13:00:00+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/gender/</loc>
-    <lastmod>2019-07-08T13:00:00+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/slicing-the-beat/</loc>
-    <lastmod>2019-07-04T04:20:00+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://alex.flvr.top/blog/tags/code/</loc>
     <lastmod>2019-07-04T04:20:00+03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alex.flvr.top/blog/tags/music/</loc>
     <lastmod>2019-07-04T04:20:00+03:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/post/slicing-the-beat/</loc>
+    <lastmod>2019-07-04T04:20:00+03:00</lastmod>
   </url>
   
   <url>
@@ -62,19 +60,16 @@
   <url>
     <loc>https://alex.flvr.top/blog/tags/needs/</loc>
     <lastmod>2019-03-17T05:21:00+03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alex.flvr.top/blog/tags/values/</loc>
     <lastmod>2019-03-17T05:21:00+03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alex.flvr.top/blog/tags/visualize/</loc>
     <lastmod>2019-03-17T05:21:00+03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -85,7 +80,6 @@
   <url>
     <loc>https://alex.flvr.top/blog/tags/toys/</loc>
     <lastmod>2019-03-17T05:12:00+03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -94,32 +88,28 @@
   </url>
   
   <url>
-    <loc>https://alex.flvr.top/blog/post/securing-the-hole/</loc>
-    <lastmod>2019-02-14T00:42:00+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alex.flvr.top/blog/tags/authentication/</loc>
     <lastmod>2019-02-14T00:42:00+03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alex.flvr.top/blog/tags/encryption/</loc>
     <lastmod>2019-02-14T00:42:00+03:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/post/securing-the-hole/</loc>
+    <lastmod>2019-02-14T00:42:00+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://alex.flvr.top/blog/tags/security/</loc>
     <lastmod>2019-02-14T00:42:00+03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alex.flvr.top/blog/tags/nvc/</loc>
     <lastmod>2017-08-18T20:39:00+03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
