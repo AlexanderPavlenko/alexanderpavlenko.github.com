@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>values on Alexander Pavlenko</title>
-    <link>https://alex.flvr.top/blog/tags/values/</link>
-    <description>Recent content in values on Alexander Pavlenko</description>
+    <title>philosophy on Alexander Pavlenko</title>
+    <link>https://alex.flvr.top/blog/tags/philosophy/</link>
+    <description>Recent content in philosophy on Alexander Pavlenko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;div style=&#34;font-size:0.5rem&#34;&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Blog&lt;/span&gt; by &lt;a xmlns:cc=&#34;https://creativecommons.org/ns#&#34; href=&#34;https://alex.flvr.top/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Alexander Pavlenko&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;&lt;/div&gt;</copyright>
     <lastBuildDate>Sat, 07 Sep 2019 17:30:00 +0300</lastBuildDate>
     
-	<atom:link href="https://alex.flvr.top/blog/tags/values/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alex.flvr.top/blog/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,18 +21,6 @@
       <description>The author has been trying to follow this somewhat buddhist maxim sometimes: no expectations, no attachments, no judgements. But setting aside the coolness of trying to transgress the human condition, is there any value in such self-shaping? Let&amp;rsquo;s have a bit of research.
 This question arose after reading the Dan Ariely&amp;rsquo;s book “Predictably Irrational”:
  The brilliant satirist Alexander Pope once wrote: “Blessed is he who expects nothing, for he shall never be disappointed.</description>
-    </item>
-    
-    <item>
-      <title>Climbing the Tree</title>
-      <link>https://alex.flvr.top/blog/post/climbing-the-tree/</link>
-      <pubDate>Sun, 17 Mar 2019 05:21:00 +0300</pubDate>
-      
-      <guid>https://alex.flvr.top/blog/post/climbing-the-tree/</guid>
-      <description>Some time ago I discovered Manfred Max-Neef&amp;rsquo;s Fundamental human needs taxonomy:
- Unlike Maslow&amp;rsquo;s Hierarchy of Needs, which focuses on a hierarchy of psychological needs, Max-Neef talks about needs that are complementary, all of which are necessary to achieve satisfaction.
- Indeed, the Maslow&amp;rsquo;s hierarchy seems to me kind of opinionated and arbitrary.
-If only the game was as simple as reaching the imaginary top, somewhere across the infinite ladder.</description>
     </item>
     
   </channel>
