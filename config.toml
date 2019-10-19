@@ -7,6 +7,8 @@ paginate = 5
   contentTypeName = "post"
   themeColor = "blue"
   showMenuItems = 0
+  fullWidthTheme = false
+  centerTheme = false
 
 [taxonomies]
   tag = "tags"
