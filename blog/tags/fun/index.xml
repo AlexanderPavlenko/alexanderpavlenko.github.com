@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fun on Alexander Pavlenko</title>
@@ -18,7 +18,7 @@
       <pubDate>Sat, 19 Oct 2019 13:45:00 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/gardening-the-manifold/</guid>
-      <description>Who needs a hair dryer when you can think about infinity instead? But seriously, what do we label &amp;ldquo;infinite&amp;rdquo;? It&amp;rsquo;s often associated with recursion or fractals. Recursion is common in programming, and here is a fact:
+      <description>Who needs a hair dryer when you can think about infinity instead? But seriously, what do we label &amp;ldquo;infinite&amp;rdquo;? It&#39;s often associated with recursion or fractals. Recursion is common in programming, and here is a fact:
  Recursion and iteration (looping) are equally powerful. Any recursive algorithm can be rewritten to use loops instead. The opposite is also true. Any iterative algorithm can be written in terms of recursion only. In a sense, all recursion is an illusion.</description>
     </item>
     

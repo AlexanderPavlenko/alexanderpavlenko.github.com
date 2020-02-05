@@ -6,7 +6,7 @@
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-<meta name="description" content="Let&amp;rsquo;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and an online store visited once few years ago. Carl uses the same credentials for each account, and the password is easy to remember – it&amp;rsquo;s his birthday.
+<meta name="description" content="Let&#39;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and an online store visited once few years ago. Carl uses the same credentials for each account, and the password is easy to remember – it&#39;s his birthday.
 Today Carl needs to sign up on a really important website. From muscle memory, the first intention is to reuse the good old login/password."/>
 <meta name="keywords" content="devops, security, programming, music, rationality, personal"/>
 <meta name="robots" content="noodp"/>
@@ -29,7 +29,7 @@ Today Carl needs to sign up on a really important website. From muscle memory, t
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Securing the Hole :: Alexander Pavlenko — Blog" />
-<meta name="twitter:description" content="Let&amp;rsquo;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and an online store visited once few years ago. Carl uses the same credentials for each account, and the password is easy to remember – it&amp;rsquo;s his birthday.
+<meta name="twitter:description" content="Let&#39;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and an online store visited once few years ago. Carl uses the same credentials for each account, and the password is easy to remember – it&#39;s his birthday.
 Today Carl needs to sign up on a really important website. From muscle memory, the first intention is to reuse the good old login/password." />
 <meta name="twitter:site" content="https://alex.flvr.top/blog/" />
 <meta name="twitter:creator" content="" />
@@ -39,7 +39,7 @@ Today Carl needs to sign up on a really important website. From muscle memory, t
 <meta property="og:locale" content="en" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Securing the Hole :: Alexander Pavlenko — Blog">
-<meta property="og:description" content="Let&amp;rsquo;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and an online store visited once few years ago. Carl uses the same credentials for each account, and the password is easy to remember – it&amp;rsquo;s his birthday.
+<meta property="og:description" content="Let&#39;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and an online store visited once few years ago. Carl uses the same credentials for each account, and the password is easy to remember – it&#39;s his birthday.
 Today Carl needs to sign up on a really important website. From muscle memory, the first intention is to reuse the good old login/password." />
 <meta property="og:url" content="https://alex.flvr.top/blog/post/securing-the-hole/" />
 <meta property="og:site_name" content="Securing the Hole" />
@@ -107,30 +107,26 @@ Today Carl needs to sign up on a really important website. From muscle memory, t
   
 
   <div class="post-content">
-    <p>Let&rsquo;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and an online store visited once few years ago. Carl uses the same credentials for each account, and the password is easy to remember – it&rsquo;s his birthday.</p>
-
-<p>Today Carl needs to sign up on a really important website. From muscle memory, the first intention is to reuse the good old login/password. But what if it&rsquo;s not so secret anymore? <a href="https://haveibeenpwned.com/">Have I Been Pwned</a> confirms his suspicion. Carl starts to consider his options:</p>
-
+    <p>Let's start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and an online store visited once few years ago. Carl uses the same credentials for each account, and the password is easy to remember – it's his birthday.</p>
+<p>Today Carl needs to sign up on a really important website. From muscle memory, the first intention is to reuse the good old login/password. But what if it's not so secret anymore? <a href="https://haveibeenpwned.com/">Have I Been Pwned</a> confirms his suspicion. Carl starts to consider his options:</p>
 <ul>
 <li>Make up a new password for each important account and remember it!</li>
-<li>Nope, I don&rsquo;t want to remember passwords which must contain a capital number, two hieroglyphs, an unprintable symbol, and the hyperspace.</li>
+<li>Nope, I don't want to remember passwords which must contain a capital number, two hieroglyphs, an unprintable symbol, and the hyperspace.</li>
 <li>I can write down them on the piece of paper. With multiple carbon copies to store in different places in case I lose some and then will have to change all the passwords just in case.</li>
-<li>Probably it&rsquo;s better to keep them encrypted and digital. Easy backups, fast copy-paste.</li>
-<li>I can use <a href="https://keepass.info/">KeePass</a> and have a nice big encrypted database, readable even on an ancient mobile phone with J2ME, Carl! <br />
+<li>Probably it's better to keep them encrypted and digital. Easy backups, fast copy-paste.</li>
+<li>I can use <a href="https://keepass.info/">KeePass</a> and have a nice big encrypted database, readable even on an ancient mobile phone with J2ME, Carl!<br>
 Still, it looks to me as an unnecessary risk to decrypt it all just to access a single secret. Computer, what do you think?</li>
 <li>Computer says: <a href="https://en.wikipedia.org/wiki/GNU_Privacy_Guard">GnuPG</a> + <a href="https://www.gopass.pw/">gopass</a></li>
-<li>Cool. Secrets are separated into many small files for independent decryption. And if it&rsquo;s too command-liny, I can use the front-ends Iike <a href="https://qtpass.org/">QtPass</a> and <a href="https://github.com/zeapo/Android-Password-Store">Android Password Store</a></li>
-<li>At last! All seems in order. <br />
+<li>Cool. Secrets are separated into many small files for independent decryption. And if it's too command-liny, I can use the front-ends Iike <a href="https://qtpass.org/">QtPass</a> and <a href="https://github.com/zeapo/Android-Password-Store">Android Password Store</a></li>
+<li>At last! All seems in order.<br>
 But wait, what the 2FA is this thing?</li>
-<li>Oh noes, another password! It&rsquo;s generated by a website and shown to me only once to QR-scan or copy-paste into a special program. This master secret gets transformed into a continuous stream of 6-digit single-use passwords. New password each minute — impossibru to steal or brute-force! <br />
-Still, it&rsquo;s as secure as a storage of the master secret.</li>
+<li>Oh noes, another password! It's generated by a website and shown to me only once to QR-scan or copy-paste into a special program. This master secret gets transformed into a continuous stream of 6-digit single-use passwords. New password each minute — impossibru to steal or brute-force!<br>
+Still, it's as secure as a storage of the master secret.</li>
 <li>Enters U2F. Master secret is generated by a special hardware device and stored only in it. Login can be as simple as a hardware button press! I can check <a href="https://www.dongleauth.info/">DongleAuth</a> to see sites which have U2F support.</li>
 <li>Such device may have multiple functions, including GnuPG encryption.</li>
-<li>Unfortunately, the device can be broken or lost, as it&rsquo;s not embedded into my body yet. This means some backup authentication method or a paper backup of the master secret is still needed.</li>
+<li>Unfortunately, the device can be broken or lost, as it's not embedded into my body yet. This means some backup authentication method or a paper backup of the master secret is still needed.</li>
 </ul>
-
 <p>That was a lot of considering and Carl decides to switch his attention to some other things.</p>
-
 <p>P.S. <a href="https://www.wired.com/story/macos-update-undoes-apple-root-bug-patch/">Sometimes passwords are just not needed!</a></p>
 
   </div>

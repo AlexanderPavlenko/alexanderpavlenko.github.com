@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alexander Pavlenko</title>
@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;div style=&#34;font-size:0.5rem&#34;&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Blog&lt;/span&gt; by &lt;a xmlns:cc=&#34;https://creativecommons.org/ns#&#34; href=&#34;https://alex.flvr.top/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Alexander Pavlenko&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;&lt;/div&gt;</copyright>
-    <lastBuildDate>Fri, 15 Nov 2019 21:05:00 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2020 04:20:00 +0300</lastBuildDate>
     
 	<atom:link href="https://alex.flvr.top/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>chaos</title>
+      <link>https://alex.flvr.top/blog/tags/chaos/</link>
+      <pubDate>Wed, 05 Feb 2020 04:20:00 +0300</pubDate>
+      
+      <guid>https://alex.flvr.top/blog/tags/chaos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>humanism</title>
+      <link>https://alex.flvr.top/blog/tags/humanism/</link>
+      <pubDate>Wed, 05 Feb 2020 04:20:00 +0300</pubDate>
+      
+      <guid>https://alex.flvr.top/blog/tags/humanism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stranger than kindness</title>
+      <link>https://alex.flvr.top/blog/tags/stranger-than-kindness/</link>
+      <pubDate>Wed, 05 Feb 2020 04:20:00 +0300</pubDate>
+      
+      <guid>https://alex.flvr.top/blog/tags/stranger-than-kindness/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>lovecraft</title>
@@ -27,15 +54,6 @@
       <pubDate>Fri, 15 Nov 2019 21:05:00 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/tags/wait-but-why/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stranger than kindness</title>
-      <link>https://alex.flvr.top/blog/tags/stranger-than-kindness/</link>
-      <pubDate>Tue, 29 Oct 2019 22:00:00 +0300</pubDate>
-      
-      <guid>https://alex.flvr.top/blog/tags/stranger-than-kindness/</guid>
       <description></description>
     </item>
     

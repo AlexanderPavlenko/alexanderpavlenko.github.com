@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexander Pavlenko</title>
@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;div style=&#34;font-size:0.5rem&#34;&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Blog&lt;/span&gt; by &lt;a xmlns:cc=&#34;https://creativecommons.org/ns#&#34; href=&#34;https://alex.flvr.top/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Alexander Pavlenko&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;&lt;/div&gt;</copyright>
-    <lastBuildDate>Fri, 15 Nov 2019 21:05:00 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2020 04:20:00 +0300</lastBuildDate>
     
 	<atom:link href="https://alex.flvr.top/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Refining Humanism</title>
+      <link>https://alex.flvr.top/blog/post/refining-humanism/</link>
+      <pubDate>Wed, 05 Feb 2020 04:20:00 +0300</pubDate>
+      
+      <guid>https://alex.flvr.top/blog/post/refining-humanism/</guid>
+      <description>In the previous post I mentioned the Humanism. Let&#39;s review its Manifesto #3.
+ Knowledge of the world is derived by observation, experimentation, and rational analysis.
+ That&#39;s alright. Except there&#39;s a new player now: the learning machines. So a bit snobbery &amp;ldquo;rational analysis&amp;rdquo; may be rephrased as the &amp;ldquo;processing and predicting&amp;rdquo;. I&#39;m currently reading an amazing book on this topic: “The Most Human Human”.
+ Humans are an integral part of nature, the result of unguided evolutionary change.</description>
+    </item>
     
     <item>
       <title>Floating in Somewhat Peculiar Way</title>
@@ -18,7 +30,7 @@
       <pubDate>Fri, 15 Nov 2019 21:05:00 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/floating-in-somewhat-peculiar-way/</guid>
-      <description>There is a very nice diagram in this post: an &amp;ldquo;Everything We Know&amp;rdquo; sphere engulfed in a &amp;ldquo;Everything We Don&amp;rsquo;t Know&amp;rdquo; cloud. It may evoke whole lot of somewhat Lovecraftian associations. Like we&amp;rsquo;re inside a galaxy-sized body of knowledge. Maybe a symbiont, maybe a parasite gnawing its way towards a metamorphosis.
+      <description>There is a very nice diagram in this post: an &amp;ldquo;Everything We Know&amp;rdquo; sphere engulfed in a &amp;ldquo;Everything We Don&#39;t Know&amp;rdquo; cloud. It may evoke whole lot of somewhat Lovecraftian associations. Like we&#39;re inside a galaxy-sized body of knowledge. Maybe a symbiont, maybe a parasite gnawing its way towards a metamorphosis.
 “Cosmicism and humanism are incompatible“, says Wikipedia. I guess, these beliefs may be considered as the opposite ends of a spectrum.</description>
     </item>
     
@@ -38,7 +50,7 @@
       <pubDate>Sat, 19 Oct 2019 13:45:00 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/gardening-the-manifold/</guid>
-      <description>Who needs a hair dryer when you can think about infinity instead? But seriously, what do we label &amp;ldquo;infinite&amp;rdquo;? It&amp;rsquo;s often associated with recursion or fractals. Recursion is common in programming, and here is a fact:
+      <description>Who needs a hair dryer when you can think about infinity instead? But seriously, what do we label &amp;ldquo;infinite&amp;rdquo;? It&#39;s often associated with recursion or fractals. Recursion is common in programming, and here is a fact:
  Recursion and iteration (looping) are equally powerful. Any recursive algorithm can be rewritten to use loops instead. The opposite is also true. Any iterative algorithm can be written in terms of recursion only. In a sense, all recursion is an illusion.</description>
     </item>
     
@@ -48,8 +60,8 @@
       <pubDate>Sat, 07 Sep 2019 17:30:00 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/expecting-excellence/</guid>
-      <description>The author has been trying to follow this somewhat buddhist maxim sometimes: no expectations, no attachments, no judgements. But setting aside the coolness of trying to transgress the human condition, is there any value in such self-shaping? Let&amp;rsquo;s have a bit of research.
-This question arose after reading the Dan Ariely&amp;rsquo;s book “Predictably Irrational”:
+      <description>The author has been trying to follow this somewhat buddhist maxim sometimes: no expectations, no attachments, no judgements. But setting aside the coolness of trying to transgress the human condition, is there any value in such self-shaping? Let&#39;s have a bit of research.
+This question arose after reading the Dan Ariely&#39;s book “Predictably Irrational”:
  The brilliant satirist Alexander Pope once wrote: “Blessed is he who expects nothing, for he shall never be disappointed.</description>
     </item>
     
@@ -59,8 +71,8 @@ This question arose after reading the Dan Ariely&amp;rsquo;s book “Predictably
       <pubDate>Mon, 02 Sep 2019 17:50:00 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/comprehending-diversity/</guid>
-      <description>According to this data, the human homosexuality is still discriminated. But here is a somewhat shocking insight: the homosexuality phenomenon doesn&amp;rsquo;t even break out of the binary gender system! &amp;lsquo;Homo-&amp;rsquo; means &amp;lsquo;same&amp;rsquo;, &amp;lsquo;hetero-&amp;rsquo; means &amp;lsquo;opposite&amp;rsquo;. How can we start to comprehend non-binary then?
-Let&amp;rsquo;s start from the biology. Gender binarism is obviously rooted in the reproduction process. But what if one cannot or does not want to have an offspring? I guess, this doesn&amp;rsquo;t make them any less human.</description>
+      <description>According to this data, the human homosexuality is still discriminated. But here is a somewhat shocking insight: the homosexuality phenomenon doesn&#39;t even break out of the binary gender system! &amp;lsquo;Homo-&amp;rsquo; means &amp;lsquo;same&amp;rsquo;, &amp;lsquo;hetero-&amp;rsquo; means &amp;lsquo;opposite&amp;rsquo;. How can we start to comprehend non-binary then?
+Let&#39;s start from the biology. Gender binarism is obviously rooted in the reproduction process. But what if one cannot or does not want to have an offspring? I guess, this doesn&#39;t make them any less human.</description>
     </item>
     
     <item>
@@ -82,7 +94,7 @@ I wonder how this piece of science fiction correlates with the actual history:
       <guid>https://alex.flvr.top/blog/post/slicing-the-beat/</guid>
       <description>In this post I will continue the exploration of Sonic Pi.
 So far, I wrote the sequencer, and then found myself reading about the polyrhythms:
- From the philosophical perspective of the African musician, cross-beats can symbolize the challenging moments or emotional stress we all encounter. Playing cross-beats while fully grounded in the main beats, prepares one for maintaining a life-purpose while dealing with life&amp;rsquo;s challenges. Many non-Saharan languages do not have a word for rhythm, or even music.</description>
+ From the philosophical perspective of the African musician, cross-beats can symbolize the challenging moments or emotional stress we all encounter. Playing cross-beats while fully grounded in the main beats, prepares one for maintaining a life-purpose while dealing with life&#39;s challenges. Many non-Saharan languages do not have a word for rhythm, or even music.</description>
     </item>
     
     <item>
@@ -91,9 +103,9 @@ So far, I wrote the sequencer, and then found myself reading about the polyrhyth
       <pubDate>Sun, 17 Mar 2019 05:21:00 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/climbing-the-tree/</guid>
-      <description>Some time ago I discovered Manfred Max-Neef&amp;rsquo;s Fundamental human needs taxonomy:
- Unlike Maslow&amp;rsquo;s Hierarchy of Needs, which focuses on a hierarchy of psychological needs, Max-Neef talks about needs that are complementary, all of which are necessary to achieve satisfaction.
- Indeed, the Maslow&amp;rsquo;s hierarchy seems to me kind of opinionated and arbitrary.
+      <description>Some time ago I discovered Manfred Max-Neef&#39;s Fundamental human needs taxonomy:
+ Unlike Maslow&#39;s Hierarchy of Needs, which focuses on a hierarchy of psychological needs, Max-Neef talks about needs that are complementary, all of which are necessary to achieve satisfaction.
+ Indeed, the Maslow&#39;s hierarchy seems to me kind of opinionated and arbitrary.
 If only the game was as simple as reaching the imaginary top, somewhere across the infinite ladder.</description>
     </item>
     
@@ -103,7 +115,7 @@ If only the game was as simple as reaching the imaginary top, somewhere across t
       <pubDate>Sun, 17 Mar 2019 05:12:00 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/mapping-the-systems/</guid>
-      <description>I think it&amp;rsquo;s cool to be able to create various diagrams just by declaring them in plain text. The first tool which I was using is PlantUML. Then I discovered MermaidJS, which is nicely supported by Typora. It&amp;rsquo;s even possible to render diagrams in the supported browsers. This allows the interactive elements and nice stylings. The graph below is an attempt to visualize the data flow and feedback loops for some of my gadgets.</description>
+      <description>I think it&#39;s cool to be able to create various diagrams just by declaring them in plain text. The first tool which I was using is PlantUML. Then I discovered MermaidJS, which is nicely supported by Typora. It&#39;s even possible to render diagrams in the supported browsers. This allows the interactive elements and nice stylings. The graph below is an attempt to visualize the data flow and feedback loops for some of my gadgets.</description>
     </item>
     
     <item>
@@ -112,8 +124,10 @@ If only the game was as simple as reaching the imaginary top, somewhere across t
       <pubDate>Mon, 18 Feb 2019 21:21:42 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/baking-the-sonic-pie/</guid>
-      <description>There is already an article which sings praises to Ruby. And so does the author of Sonic Pi.
- Amazingly, the concept of programming is probably emerged along with the first musical machines. These days, I see how code becomes the universal language which gets ideas across when nothing else can. And the music is the code of feelings. Except when you have &amp;ldquo;amusia.&amp;rdquo;
+      <description>There is already an article which sings praises to Ruby.
+And so does the author of Sonic Pi.
+Amazingly, the concept of programming is probably emerged along with the first musical machines. These days, I see how code becomes the universal language which gets ideas across when nothing else can. And the music is the code of feelings.
+Except when you have &amp;ldquo;amusia.&amp;quot;
 Today I got curious to explore Sonic Pi and its integration with DAW via MIDI in particular.</description>
     </item>
     
@@ -123,7 +137,7 @@ Today I got curious to explore Sonic Pi and its integration with DAW via MIDI in
       <pubDate>Thu, 14 Feb 2019 00:42:00 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/securing-the-hole/</guid>
-      <description>Let&amp;rsquo;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and an online store visited once few years ago. Carl uses the same credentials for each account, and the password is easy to remember – it&amp;rsquo;s his birthday.
+      <description>Let&#39;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and an online store visited once few years ago. Carl uses the same credentials for each account, and the password is easy to remember – it&#39;s his birthday.
 Today Carl needs to sign up on a really important website. From muscle memory, the first intention is to reuse the good old login/password.</description>
     </item>
     
@@ -133,7 +147,7 @@ Today Carl needs to sign up on a really important website. From muscle memory, t
       <pubDate>Fri, 18 Aug 2017 20:39:00 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/rationally-grateful/</guid>
-      <description>I have some memories of myself somewhere in space-time getting excited and declaring that all prior disasters were in fact a “blessing in disguise” and without them I thought I would not have this-and-that. I also observed others declaring similar statements. In all those cases a parallel universe where the same and maybe some additional advances are attained without the same disasters – it’s just getting swept under the carpet. Perhaps because in some way it&amp;rsquo;s kind of depressing to think of and it may diminish the gratitude one is trying to express.</description>
+      <description>I have some memories of myself somewhere in space-time getting excited and declaring that all prior disasters were in fact a “blessing in disguise” and without them I thought I would not have this-and-that. I also observed others declaring similar statements. In all those cases a parallel universe where the same and maybe some additional advances are attained without the same disasters – it’s just getting swept under the carpet. Perhaps because in some way it&#39;s kind of depressing to think of and it may diminish the gratitude one is trying to express.</description>
     </item>
     
   </channel>

@@ -1,10 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://alex.flvr.top/blog/</loc>
-    <lastmod>2019-11-15T21:05:00+03:00</lastmod>
+    <lastmod>2020-02-05T04:20:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/tags/chaos/</loc>
+    <lastmod>2020-02-05T04:20:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/tags/humanism/</loc>
+    <lastmod>2020-02-05T04:20:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/post/</loc>
+    <lastmod>2020-02-05T04:20:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/post/refining-humanism/</loc>
+    <lastmod>2020-02-05T04:20:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/tags/stranger-than-kindness/</loc>
+    <lastmod>2020-02-05T04:20:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alex.flvr.top/blog/tags/</loc>
+    <lastmod>2020-02-05T04:20:00+03:00</lastmod>
   </url>
   
   <url>
@@ -18,27 +48,12 @@
   </url>
   
   <url>
-    <loc>https://alex.flvr.top/blog/post/</loc>
-    <lastmod>2019-11-15T21:05:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/</loc>
-    <lastmod>2019-11-15T21:05:00+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alex.flvr.top/blog/tags/wait-but-why/</loc>
     <lastmod>2019-11-15T21:05:00+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://alex.flvr.top/blog/post/playing-like-giants/</loc>
-    <lastmod>2019-10-29T22:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/stranger-than-kindness/</loc>
     <lastmod>2019-10-29T22:00:00+03:00</lastmod>
   </url>
   

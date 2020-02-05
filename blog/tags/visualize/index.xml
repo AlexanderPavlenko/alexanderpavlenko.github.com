@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>visualize on Alexander Pavlenko</title>
@@ -18,9 +18,9 @@
       <pubDate>Sun, 17 Mar 2019 05:21:00 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/climbing-the-tree/</guid>
-      <description>Some time ago I discovered Manfred Max-Neef&amp;rsquo;s Fundamental human needs taxonomy:
- Unlike Maslow&amp;rsquo;s Hierarchy of Needs, which focuses on a hierarchy of psychological needs, Max-Neef talks about needs that are complementary, all of which are necessary to achieve satisfaction.
- Indeed, the Maslow&amp;rsquo;s hierarchy seems to me kind of opinionated and arbitrary.
+      <description>Some time ago I discovered Manfred Max-Neef&#39;s Fundamental human needs taxonomy:
+ Unlike Maslow&#39;s Hierarchy of Needs, which focuses on a hierarchy of psychological needs, Max-Neef talks about needs that are complementary, all of which are necessary to achieve satisfaction.
+ Indeed, the Maslow&#39;s hierarchy seems to me kind of opinionated and arbitrary.
 If only the game was as simple as reaching the imaginary top, somewhere across the infinite ladder.</description>
     </item>
     
@@ -30,7 +30,7 @@ If only the game was as simple as reaching the imaginary top, somewhere across t
       <pubDate>Sun, 17 Mar 2019 05:12:00 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/mapping-the-systems/</guid>
-      <description>I think it&amp;rsquo;s cool to be able to create various diagrams just by declaring them in plain text. The first tool which I was using is PlantUML. Then I discovered MermaidJS, which is nicely supported by Typora. It&amp;rsquo;s even possible to render diagrams in the supported browsers. This allows the interactive elements and nice stylings. The graph below is an attempt to visualize the data flow and feedback loops for some of my gadgets.</description>
+      <description>I think it&#39;s cool to be able to create various diagrams just by declaring them in plain text. The first tool which I was using is PlantUML. Then I discovered MermaidJS, which is nicely supported by Typora. It&#39;s even possible to render diagrams in the supported browsers. This allows the interactive elements and nice stylings. The graph below is an attempt to visualize the data flow and feedback loops for some of my gadgets.</description>
     </item>
     
   </channel>
