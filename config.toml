@@ -1,7 +1,7 @@
 baseurl = "https://alex.flvr.top/blog/"
 languageCode = "en-us"
 theme = "terminal"
-paginate = 5
+paginate = 42
 
 [params]
   contentTypeName = "post"
