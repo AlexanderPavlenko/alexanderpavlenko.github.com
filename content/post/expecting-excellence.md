@@ -1,6 +1,8 @@
 ---
 title: "Expecting Excellence"
 date: 2019-09-07T17:30:00+03:00
+summary: |
+  The author has been trying to follow this somewhat buddhist maxim sometimes: no expectations, no attachments, no judgements. But setting aside the coolness of trying to transgress the human condition, is there any value in such self-shaping?
 tags:
 - values
 - philosophy	

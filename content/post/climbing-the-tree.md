@@ -1,6 +1,8 @@
 ---
 title: "Climbing the Tree"
 date: 2019-03-17T05:21:00+03:00
+summary: |
+  More precisely, a directed acyclic graph.
 tags:
 - visualize
 - needs

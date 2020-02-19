@@ -1,6 +1,8 @@
 ---
 title: "Slicing the Beat"
 date: 2019-07-04T04:20:00+03:00
+summary: |
+  In this post I will continue the exploration of Sonic Pi. So far, I wrote the sequencer, and then found myself reading about the polyrhythms.
 tags:
 - code
 - music
@@ -18,12 +20,12 @@ Sounds like fun. Sure, there are lots of plugins on sale for generating such rhy
 
 So, this algorithm does look like a perfect addition to my sequencer. [Here is an example][code].
 
-<iframe width="100%" height="315" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/647460816&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+{{<soundcloud-track 647460816>}}
 
 In this example the Sonic Pi is only used for MIDI generation.\
 The sounds come from an amazing new synth – [Massive X][].\
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/zKCyQSA-FpM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{<youtube zKCyQSA-FpM>}}
 
 I got inspired by this stylish promo, indeed :)
 

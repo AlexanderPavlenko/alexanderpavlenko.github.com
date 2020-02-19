@@ -1,6 +1,8 @@
 ---
 title: "Mapping the Systems"
 date: 2019-03-17T05:12:00+03:00
+summary: |
+  There is the MermaidJS and its DSL for this.
 tags:
 - visualize
 - toys

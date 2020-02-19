@@ -1,7 +1,7 @@
 ---
 title: "Defining Games"
 date: 2020-02-17T17:00:00+03:00
-description: |
+summary: |
   In the previous post I mentioned “The Most Human Human” book. It has a small section with the same title as this post. Here goes the quote followed by my thoughts.
 tags:
 - values

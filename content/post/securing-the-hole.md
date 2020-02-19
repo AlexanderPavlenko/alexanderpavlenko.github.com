@@ -1,7 +1,8 @@
 ---
 title: "Securing the Hole"
 date: 2019-02-14T00:42:00+03:00
-draft: false
+summary: |
+  Or at least trying to.
 tags:
 - security
 - encryption

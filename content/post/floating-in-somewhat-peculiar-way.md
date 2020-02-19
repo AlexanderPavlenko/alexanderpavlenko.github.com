@@ -1,6 +1,8 @@
 ---
 title: "Floating in Somewhat Peculiar Way"
 date: 2019-11-15T21:05:00+03:00
+summary: |
+  There is a very nice diagram: an "Everything We Know" sphere engulfed in a "Everything We Don't Know" cloud. It may evoke whole lot of somewhat Lovecraftian associations.
 tags:
 - wait but why
 - lovecraft

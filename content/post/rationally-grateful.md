@@ -1,8 +1,11 @@
 ---
 title: "Rationally Grateful"
 date: 2017-08-18T20:39:00+03:00
+summary: |
+  And inspired by Eliezer Yudkowsky and Marshall Rosenberg.
 tags:
-- NVC
+- less wrong
+- nonviolent communication
 ---
 
 I have some memories of myself somewhere in space-time getting excited and declaring that all prior disasters were in fact a “blessing in disguise” and without them I thought I would not have this-and-that. I also observed others declaring similar statements. In all those cases a parallel universe where the same and maybe some additional advances are attained without the same disasters – it’s just getting swept under the carpet. Perhaps because in some way it's kind of depressing to think of and it may diminish the gratitude one is trying to express. Well, “that which can be destroyed by the truth should be”. It seems to me that to be rationally grateful is to say “I've got this and that, and it's valuable enough for me in this moment” in contrast to “I've got this and that, and it could be worse” because, well, it could be “better”. Or just different. 

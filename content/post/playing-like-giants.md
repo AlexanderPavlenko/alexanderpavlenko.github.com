@@ -1,12 +1,14 @@
 ---
 title: "Playing like Giants"
 date: 2019-10-29T22:00:00+03:00
+summary: |
+  Here goes a fragment from “A Game of Giants” by Tim Urban.
 tags:
 - wait but why
 - stranger than kindness
 ---
 
-Here is a fragment from [A Game of Giants by Tim Urban]:
+Here goes a fragment from [“A Game of Giants” by Tim Urban]:
 
 > So while kindness, in all its manifestations—care, altruism, compassion—was an important survival trait in a world where well-functioning groups were necessary for survival, universal kindness probably wasn’t a great survival trait. Inevitably, other tribes would be selectively kind, shedding all of that kindness when dealing with other tribes. And when a kind tribe faces off against a ruthless tribe, the ruthless tribe usually wins.
 
@@ -20,4 +22,4 @@ This seems depressingly accurate to me, but let's imagine another scenario. The 
 
 {{<youtube q7DfQMPmJRI>}}
 
-[A Game of Giants by Tim Urban]: https://waitbutwhy.com/2019/08/giants.html
+[“A Game of Giants” by Tim Urban]: https://waitbutwhy.com/2019/08/giants.html

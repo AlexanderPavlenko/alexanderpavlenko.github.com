@@ -5,7 +5,7 @@ tags:
 - humanism
 - chaos
 - stranger than kindness
-description: |
+summary: |
   In the previous post I mentioned Humanism. Let's review its Manifesto #3.
 ---
 

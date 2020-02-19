@@ -38,8 +38,8 @@
     <div class="post-content">
       {{ if .Params.showFullContent }}
       {{ .Content | markdownify }}
-      {{ else if .Description }}
-      {{ .Description | markdownify }}
+      {{ else if .Summary }}
+      {{ .Summary | markdownify }}
       {{ else }}
       {{ if .Truncated }}
       {{ .Summary | markdownify }}

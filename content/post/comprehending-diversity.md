@@ -1,6 +1,8 @@
 ---
 title: "Comprehending Diversity"
 date: 2019-09-02T17:50:00+03:00
+summary: |
+  How can we start to comprehend non-binary gender identities?
 tags:
 - gender
 ---
