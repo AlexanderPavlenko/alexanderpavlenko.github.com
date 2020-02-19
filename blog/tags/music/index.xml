@@ -18,9 +18,7 @@
       <pubDate>Thu, 04 Jul 2019 04:20:00 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/slicing-the-beat/</guid>
-      <description>In this post I will continue the exploration of Sonic Pi.
-So far, I wrote the sequencer, and then found myself reading about the polyrhythms:
- From the philosophical perspective of the African musician, cross-beats can symbolize the challenging moments or emotional stress we all encounter. Playing cross-beats while fully grounded in the main beats, prepares one for maintaining a life-purpose while dealing with life&#39;s challenges. Many non-Saharan languages do not have a word for rhythm, or even music.</description>
+      <description>In this post I will continue the exploration of Sonic Pi. So far, I wrote the sequencer, and then found myself reading about the polyrhythms.</description>
     </item>
     
     <item>
@@ -29,11 +27,7 @@ So far, I wrote the sequencer, and then found myself reading about the polyrhyth
       <pubDate>Mon, 18 Feb 2019 21:21:42 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/baking-the-sonic-pie/</guid>
-      <description>There is already an article which sings praises to Ruby.
-And so does the author of Sonic Pi.
-Amazingly, the concept of programming is probably emerged along with the first musical machines. These days, I see how code becomes the universal language which gets ideas across when nothing else can. And the music is the code of feelings.
-Except when you have &amp;ldquo;amusia.&amp;quot;
-Today I got curious to explore Sonic Pi and its integration with DAW via MIDI in particular.</description>
+      <description>Today I got curious to explore Sonic Pi and its integration with DAW via MIDI in particular.</description>
     </item>
     
   </channel>

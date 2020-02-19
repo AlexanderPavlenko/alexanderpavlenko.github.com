@@ -18,7 +18,7 @@
       <pubDate>Sun, 17 Mar 2019 05:12:00 +0300</pubDate>
       
       <guid>https://alex.flvr.top/blog/post/mapping-the-systems/</guid>
-      <description>I think it&#39;s cool to be able to create various diagrams just by declaring them in plain text. The first tool which I was using is PlantUML. Then I discovered MermaidJS, which is nicely supported by Typora. It&#39;s even possible to render diagrams in the supported browsers. This allows the interactive elements and nice stylings. The graph below is an attempt to visualize the data flow and feedback loops for some of my gadgets.</description>
+      <description>There is the MermaidJS and its DSL for this.</description>
     </item>
     
   </channel>
