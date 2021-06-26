@@ -9,27 +9,27 @@
 <meta name="description" content="Today I got curious to explore Sonic Pi and its integration with DAW via MIDI in particular."/>
 <meta name="keywords" content="devops, security, programming, music, rationality, personal"/>
 <meta name="robots" content="noodp"/>
-<link rel="canonical" href="https://alex.flvr.top/blog/post/baking-the-sonic-pie/" />
+<link rel="canonical" href="https://lexi.flvr.top/blog/post/baking-the-sonic-pie/" />
 
 
-<link rel="stylesheet" href="https://alex.flvr.top/blog/assets/style.css">
+<link rel="stylesheet" href="https://lexi.flvr.top/blog/assets/style.css">
 
-  <link rel="stylesheet" href="https://alex.flvr.top/blog/assets/blue.css">
-
-
-
-<link rel="stylesheet" href="https://alex.flvr.top/blog/style.css">
+  <link rel="stylesheet" href="https://lexi.flvr.top/blog/assets/blue.css">
 
 
 
-<link rel="shortcut icon" href="https://alex.flvr.top/blog/img/favicon/blue.png">
+<link rel="stylesheet" href="https://lexi.flvr.top/blog/style.css">
+
+
+
+<link rel="shortcut icon" href="https://lexi.flvr.top/blog/img/favicon/blue.png">
 
 
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Baking the Sonic Pie :: Alexander Pavlenko — Blog" />
 <meta name="twitter:description" content="Today I got curious to explore Sonic Pi and its integration with DAW via MIDI in particular." />
-<meta name="twitter:site" content="https://alex.flvr.top/blog/" />
+<meta name="twitter:site" content="https://lexi.flvr.top/blog/" />
 <meta name="twitter:creator" content="" />
 <meta name="twitter:image" content="">
 
@@ -38,7 +38,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Baking the Sonic Pie :: Alexander Pavlenko — Blog">
 <meta property="og:description" content="Today I got curious to explore Sonic Pi and its integration with DAW via MIDI in particular." />
-<meta property="og:url" content="https://alex.flvr.top/blog/post/baking-the-sonic-pie/" />
+<meta property="og:url" content="https://lexi.flvr.top/blog/post/baking-the-sonic-pie/" />
 <meta property="og:site_name" content="Baking the Sonic Pie" />
 <meta property="og:image" content="">
 <meta property="og:image:width" content="2048">
@@ -79,7 +79,7 @@
     
 <div class="post">
   <h1 class="post-title">
-    <a href="https://alex.flvr.top/blog/post/baking-the-sonic-pie/">Baking the Sonic Pie</a></h1>
+    <a href="https://lexi.flvr.top/blog/post/baking-the-sonic-pie/">Baking the Sonic Pie</a></h1>
   <div class="post-meta">
       
     <span class="post-date">
@@ -92,9 +92,9 @@
   
   <span class="post-tags">
     
-    #<a href="https://alex.flvr.top/blog/tags/code/">code</a>&nbsp;
+    #<a href="https://lexi.flvr.top/blog/tags/code/">code</a>&nbsp;
     
-    #<a href="https://alex.flvr.top/blog/tags/music/">music</a>&nbsp;
+    #<a href="https://lexi.flvr.top/blog/tags/music/">music</a>&nbsp;
     
   </span>
   
@@ -123,7 +123,7 @@ src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/57
 ></iframe>
 <p>To render all these MIDI notes into the sound, I used <a href="https://www.propellerheads.com/en/reason">Propellerhead Reason</a>. It did help to create <a href="https://koshdukaimusicreason.blogspot.com/2015/09/generic-midi-channel-aware-remote.html">per-channel controllers</a> and assign them to the instruments via &ldquo;Surface locking.&rdquo;</p>
 <hr>
-<h2 id="with-comfort-">With comfort</h2>
+<h2 id="with-comfort">With comfort</h2>
 <p>Sonic Pi looks nice, but its code editor is not yet as powerful as a professional IDE. So I started my <a href="https://www.jetbrains.com/ruby/">RubyMine</a>, and after a few edit-save-reload cycles, it became apparent that a bit more integration is needed. With a few <a href="https://in-thread.sonic-pi.net/t/buffer-autoreload-on-external-file-change-event/2075?u=alerticus">helpful hints</a> from the Sonic Pi community, I implemented a <a href="https://github.com/AlexanderPavlenko/sonic-pi-works/blob/master/autoreload.rb">reload function</a> which is triggered automatically when the file is saved. Also, I checked out Sonic Pi source code and extracted <a href="https://github.com/AlexanderPavlenko/sonic-pi-works/tree/master/stubs">documentation</a> from it. The <code>yard.rb</code> file, when placed into the project dir, does enable the smarts, like the code autocompletion, analysis, and instant help.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -143,7 +143,7 @@ src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/57
     <div class="pagination__buttons">
       
       <span class="button previous">
-        <a href="https://alex.flvr.top/blog/post/mapping-the-systems/">
+        <a href="https://lexi.flvr.top/blog/post/mapping-the-systems/">
           <span class="button__icon">←</span>
           <span class="button__text">Mapping the Systems</span>
         </a>
@@ -151,7 +151,7 @@ src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/57
       
       
       <span class="button next">
-        <a href="https://alex.flvr.top/blog/post/securing-the-hole/">
+        <a href="https://lexi.flvr.top/blog/post/securing-the-hole/">
           <span class="button__text">Securing the Hole</span>
           <span class="button__icon">→</span>
         </a>
@@ -179,14 +179,14 @@ src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/57
   <div class="footer__inner">
     
       <div class="copyright copyright--user">
-        <span><div style="font-size:0.5rem"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Blog</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="https://alex.flvr.top/" property="cc:attributionName" rel="cc:attributionURL">Alexander Pavlenko</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></div></span>
+        <span><div style="font-size:0.5rem"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Blog</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="https://lexi.flvr.top/" property="cc:attributionName" rel="cc:attributionURL">Alexander Pavlenko</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></div></span>
       </div>
     
   </div>
 </footer>
 
-<script src="https://alex.flvr.top/blog/assets/main.js"></script>
-<script src="https://alex.flvr.top/blog/assets/prism.js"></script>
+<script src="https://lexi.flvr.top/blog/assets/main.js"></script>
+<script src="https://lexi.flvr.top/blog/assets/prism.js"></script>
 
 
 

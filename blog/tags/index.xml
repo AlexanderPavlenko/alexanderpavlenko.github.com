@@ -2,202 +2,198 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alexander Pavlenko</title>
-    <link>https://alex.flvr.top/blog/tags/</link>
+    <link>https://lexi.flvr.top/blog/tags/</link>
     <description>Recent content in Tags on Alexander Pavlenko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;div style=&#34;font-size:0.5rem&#34;&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Blog&lt;/span&gt; by &lt;a xmlns:cc=&#34;https://creativecommons.org/ns#&#34; href=&#34;https://alex.flvr.top/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Alexander Pavlenko&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;&lt;/div&gt;</copyright>
-    <lastBuildDate>Mon, 17 Feb 2020 17:00:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://alex.flvr.top/blog/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&lt;div style=&#34;font-size:0.5rem&#34;&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Blog&lt;/span&gt; by &lt;a xmlns:cc=&#34;https://creativecommons.org/ns#&#34; href=&#34;https://lexi.flvr.top/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Alexander Pavlenko&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;&lt;/div&gt;</copyright>
+    <lastBuildDate>Mon, 17 Feb 2020 17:00:00 +0300</lastBuildDate><atom:link href="https://lexi.flvr.top/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>games</title>
-      <link>https://alex.flvr.top/blog/tags/games/</link>
+      <link>https://lexi.flvr.top/blog/tags/games/</link>
       <pubDate>Mon, 17 Feb 2020 17:00:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/games/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>values</title>
-      <link>https://alex.flvr.top/blog/tags/values/</link>
+      <link>https://lexi.flvr.top/blog/tags/values/</link>
       <pubDate>Mon, 17 Feb 2020 17:00:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/values/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/values/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chaos</title>
-      <link>https://alex.flvr.top/blog/tags/chaos/</link>
+      <link>https://lexi.flvr.top/blog/tags/chaos/</link>
       <pubDate>Wed, 05 Feb 2020 04:20:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/chaos/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/chaos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>humanism</title>
-      <link>https://alex.flvr.top/blog/tags/humanism/</link>
+      <link>https://lexi.flvr.top/blog/tags/humanism/</link>
       <pubDate>Wed, 05 Feb 2020 04:20:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/humanism/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/humanism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stranger than kindness</title>
-      <link>https://alex.flvr.top/blog/tags/stranger-than-kindness/</link>
+      <link>https://lexi.flvr.top/blog/tags/stranger-than-kindness/</link>
       <pubDate>Wed, 05 Feb 2020 04:20:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/stranger-than-kindness/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/stranger-than-kindness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lovecraft</title>
-      <link>https://alex.flvr.top/blog/tags/lovecraft/</link>
+      <link>https://lexi.flvr.top/blog/tags/lovecraft/</link>
       <pubDate>Fri, 15 Nov 2019 21:05:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/lovecraft/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/lovecraft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wait but why</title>
-      <link>https://alex.flvr.top/blog/tags/wait-but-why/</link>
+      <link>https://lexi.flvr.top/blog/tags/wait-but-why/</link>
       <pubDate>Fri, 15 Nov 2019 21:05:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/wait-but-why/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/wait-but-why/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>https://alex.flvr.top/blog/tags/code/</link>
+      <link>https://lexi.flvr.top/blog/tags/code/</link>
       <pubDate>Sat, 19 Oct 2019 13:45:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/code/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fun</title>
-      <link>https://alex.flvr.top/blog/tags/fun/</link>
+      <link>https://lexi.flvr.top/blog/tags/fun/</link>
       <pubDate>Sat, 19 Oct 2019 13:45:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/fun/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>philosophy</title>
-      <link>https://alex.flvr.top/blog/tags/philosophy/</link>
+      <link>https://lexi.flvr.top/blog/tags/philosophy/</link>
       <pubDate>Sat, 07 Sep 2019 17:30:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/philosophy/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gender</title>
-      <link>https://alex.flvr.top/blog/tags/gender/</link>
+      <link>https://lexi.flvr.top/blog/tags/gender/</link>
       <pubDate>Mon, 02 Sep 2019 17:50:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/gender/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/gender/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fiction</title>
-      <link>https://alex.flvr.top/blog/tags/fiction/</link>
+      <link>https://lexi.flvr.top/blog/tags/fiction/</link>
       <pubDate>Mon, 08 Jul 2019 13:00:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/fiction/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/fiction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>music</title>
-      <link>https://alex.flvr.top/blog/tags/music/</link>
+      <link>https://lexi.flvr.top/blog/tags/music/</link>
       <pubDate>Thu, 04 Jul 2019 04:20:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/music/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>needs</title>
-      <link>https://alex.flvr.top/blog/tags/needs/</link>
+      <link>https://lexi.flvr.top/blog/tags/needs/</link>
       <pubDate>Sun, 17 Mar 2019 05:21:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/needs/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/needs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>visualize</title>
-      <link>https://alex.flvr.top/blog/tags/visualize/</link>
+      <link>https://lexi.flvr.top/blog/tags/visualize/</link>
       <pubDate>Sun, 17 Mar 2019 05:21:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/visualize/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/visualize/</guid>
       <description></description>
     </item>
     
     <item>
       <title>toys</title>
-      <link>https://alex.flvr.top/blog/tags/toys/</link>
+      <link>https://lexi.flvr.top/blog/tags/toys/</link>
       <pubDate>Sun, 17 Mar 2019 05:12:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/toys/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/toys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>authentication</title>
-      <link>https://alex.flvr.top/blog/tags/authentication/</link>
+      <link>https://lexi.flvr.top/blog/tags/authentication/</link>
       <pubDate>Thu, 14 Feb 2019 00:42:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/authentication/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/authentication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>encryption</title>
-      <link>https://alex.flvr.top/blog/tags/encryption/</link>
+      <link>https://lexi.flvr.top/blog/tags/encryption/</link>
       <pubDate>Thu, 14 Feb 2019 00:42:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/encryption/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/encryption/</guid>
       <description></description>
     </item>
     
     <item>
       <title>security</title>
-      <link>https://alex.flvr.top/blog/tags/security/</link>
+      <link>https://lexi.flvr.top/blog/tags/security/</link>
       <pubDate>Thu, 14 Feb 2019 00:42:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/security/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>less wrong</title>
-      <link>https://alex.flvr.top/blog/tags/less-wrong/</link>
+      <link>https://lexi.flvr.top/blog/tags/less-wrong/</link>
       <pubDate>Fri, 18 Aug 2017 20:39:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/less-wrong/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/less-wrong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nonviolent communication</title>
-      <link>https://alex.flvr.top/blog/tags/nonviolent-communication/</link>
+      <link>https://lexi.flvr.top/blog/tags/nonviolent-communication/</link>
       <pubDate>Fri, 18 Aug 2017 20:39:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/tags/nonviolent-communication/</guid>
+      <guid>https://lexi.flvr.top/blog/tags/nonviolent-communication/</guid>
       <description></description>
     </item>
     

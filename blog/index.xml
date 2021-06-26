@@ -2,139 +2,135 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexander Pavlenko</title>
-    <link>https://alex.flvr.top/blog/</link>
+    <link>https://lexi.flvr.top/blog/</link>
     <description>Recent content on Alexander Pavlenko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;div style=&#34;font-size:0.5rem&#34;&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Blog&lt;/span&gt; by &lt;a xmlns:cc=&#34;https://creativecommons.org/ns#&#34; href=&#34;https://alex.flvr.top/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Alexander Pavlenko&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;&lt;/div&gt;</copyright>
-    <lastBuildDate>Mon, 17 Feb 2020 17:00:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://alex.flvr.top/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&lt;div style=&#34;font-size:0.5rem&#34;&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Blog&lt;/span&gt; by &lt;a xmlns:cc=&#34;https://creativecommons.org/ns#&#34; href=&#34;https://lexi.flvr.top/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Alexander Pavlenko&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;&lt;/div&gt;</copyright>
+    <lastBuildDate>Mon, 17 Feb 2020 17:00:00 +0300</lastBuildDate><atom:link href="https://lexi.flvr.top/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Defining Games</title>
-      <link>https://alex.flvr.top/blog/post/defining-games/</link>
+      <link>https://lexi.flvr.top/blog/post/defining-games/</link>
       <pubDate>Mon, 17 Feb 2020 17:00:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/post/defining-games/</guid>
+      <guid>https://lexi.flvr.top/blog/post/defining-games/</guid>
       <description>In the previous post I mentioned “The Most Human Human” book. It has a small section with the same title as this post. Here goes the quote followed by my thoughts.</description>
     </item>
     
     <item>
       <title>Refining Humanism</title>
-      <link>https://alex.flvr.top/blog/post/refining-humanism/</link>
+      <link>https://lexi.flvr.top/blog/post/refining-humanism/</link>
       <pubDate>Wed, 05 Feb 2020 04:20:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/post/refining-humanism/</guid>
-      <description>In the previous post I mentioned Humanism. Let&#39;s review its Manifesto #3.</description>
+      <guid>https://lexi.flvr.top/blog/post/refining-humanism/</guid>
+      <description>In the previous post I mentioned Humanism. Let&amp;rsquo;s review its Manifesto #3.</description>
     </item>
     
     <item>
       <title>Floating in Somewhat Peculiar Way</title>
-      <link>https://alex.flvr.top/blog/post/floating-in-somewhat-peculiar-way/</link>
+      <link>https://lexi.flvr.top/blog/post/floating-in-somewhat-peculiar-way/</link>
       <pubDate>Fri, 15 Nov 2019 21:05:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/post/floating-in-somewhat-peculiar-way/</guid>
-      <description>There is a very nice diagram: an &amp;ldquo;Everything We Know&amp;rdquo; sphere engulfed in a &amp;ldquo;Everything We Don&#39;t Know&amp;rdquo; cloud. It may evoke whole lot of somewhat Lovecraftian associations.</description>
+      <guid>https://lexi.flvr.top/blog/post/floating-in-somewhat-peculiar-way/</guid>
+      <description>There is a very nice diagram: an &amp;ldquo;Everything We Know&amp;rdquo; sphere engulfed in a &amp;ldquo;Everything We Don&amp;rsquo;t Know&amp;rdquo; cloud. It may evoke whole lot of somewhat Lovecraftian associations.</description>
     </item>
     
     <item>
       <title>Playing like Giants</title>
-      <link>https://alex.flvr.top/blog/post/playing-like-giants/</link>
+      <link>https://lexi.flvr.top/blog/post/playing-like-giants/</link>
       <pubDate>Tue, 29 Oct 2019 22:00:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/post/playing-like-giants/</guid>
+      <guid>https://lexi.flvr.top/blog/post/playing-like-giants/</guid>
       <description>Here goes a fragment from “A Game of Giants” by Tim Urban.</description>
     </item>
     
     <item>
       <title>Gardening the Manifold</title>
-      <link>https://alex.flvr.top/blog/post/gardening-the-manifold/</link>
+      <link>https://lexi.flvr.top/blog/post/gardening-the-manifold/</link>
       <pubDate>Sat, 19 Oct 2019 13:45:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/post/gardening-the-manifold/</guid>
+      <guid>https://lexi.flvr.top/blog/post/gardening-the-manifold/</guid>
       <description>Who needs a hair dryer when you can think about infinity instead? But seriously, what do we label as &amp;ldquo;infinite&amp;rdquo;?</description>
     </item>
     
     <item>
       <title>Expecting Excellence</title>
-      <link>https://alex.flvr.top/blog/post/expecting-excellence/</link>
+      <link>https://lexi.flvr.top/blog/post/expecting-excellence/</link>
       <pubDate>Sat, 07 Sep 2019 17:30:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/post/expecting-excellence/</guid>
+      <guid>https://lexi.flvr.top/blog/post/expecting-excellence/</guid>
       <description>The author has been trying to follow this somewhat buddhist maxim sometimes: no expectations, no attachments, no judgements. But setting aside the coolness of trying to transgress the human condition, is there any value in such self-shaping?</description>
     </item>
     
     <item>
       <title>Comprehending Diversity</title>
-      <link>https://alex.flvr.top/blog/post/comprehending-diversity/</link>
+      <link>https://lexi.flvr.top/blog/post/comprehending-diversity/</link>
       <pubDate>Mon, 02 Sep 2019 17:50:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/post/comprehending-diversity/</guid>
+      <guid>https://lexi.flvr.top/blog/post/comprehending-diversity/</guid>
       <description>How can we start to comprehend non-binary gender identities?</description>
     </item>
     
     <item>
       <title>Blurring the Line</title>
-      <link>https://alex.flvr.top/blog/post/blurring-the-line/</link>
+      <link>https://lexi.flvr.top/blog/post/blurring-the-line/</link>
       <pubDate>Mon, 08 Jul 2019 13:00:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/post/blurring-the-line/</guid>
-      <description>It&#39;s going on for more than a century already.</description>
+      <guid>https://lexi.flvr.top/blog/post/blurring-the-line/</guid>
+      <description>It&amp;rsquo;s going on for more than a century already.</description>
     </item>
     
     <item>
       <title>Slicing the Beat</title>
-      <link>https://alex.flvr.top/blog/post/slicing-the-beat/</link>
+      <link>https://lexi.flvr.top/blog/post/slicing-the-beat/</link>
       <pubDate>Thu, 04 Jul 2019 04:20:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/post/slicing-the-beat/</guid>
+      <guid>https://lexi.flvr.top/blog/post/slicing-the-beat/</guid>
       <description>In this post I will continue the exploration of Sonic Pi. So far, I wrote the sequencer, and then found myself reading about the polyrhythms.</description>
     </item>
     
     <item>
       <title>Climbing the Tree</title>
-      <link>https://alex.flvr.top/blog/post/climbing-the-tree/</link>
+      <link>https://lexi.flvr.top/blog/post/climbing-the-tree/</link>
       <pubDate>Sun, 17 Mar 2019 05:21:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/post/climbing-the-tree/</guid>
+      <guid>https://lexi.flvr.top/blog/post/climbing-the-tree/</guid>
       <description>More precisely, a directed acyclic graph.</description>
     </item>
     
     <item>
       <title>Mapping the Systems</title>
-      <link>https://alex.flvr.top/blog/post/mapping-the-systems/</link>
+      <link>https://lexi.flvr.top/blog/post/mapping-the-systems/</link>
       <pubDate>Sun, 17 Mar 2019 05:12:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/post/mapping-the-systems/</guid>
+      <guid>https://lexi.flvr.top/blog/post/mapping-the-systems/</guid>
       <description>There is the MermaidJS and its DSL for this.</description>
     </item>
     
     <item>
       <title>Baking the Sonic Pie</title>
-      <link>https://alex.flvr.top/blog/post/baking-the-sonic-pie/</link>
+      <link>https://lexi.flvr.top/blog/post/baking-the-sonic-pie/</link>
       <pubDate>Mon, 18 Feb 2019 21:21:42 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/post/baking-the-sonic-pie/</guid>
+      <guid>https://lexi.flvr.top/blog/post/baking-the-sonic-pie/</guid>
       <description>Today I got curious to explore Sonic Pi and its integration with DAW via MIDI in particular.</description>
     </item>
     
     <item>
       <title>Securing the Hole</title>
-      <link>https://alex.flvr.top/blog/post/securing-the-hole/</link>
+      <link>https://lexi.flvr.top/blog/post/securing-the-hole/</link>
       <pubDate>Thu, 14 Feb 2019 00:42:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/post/securing-the-hole/</guid>
+      <guid>https://lexi.flvr.top/blog/post/securing-the-hole/</guid>
       <description>Or at least trying to.</description>
     </item>
     
     <item>
       <title>Rationally Grateful</title>
-      <link>https://alex.flvr.top/blog/post/rationally-grateful/</link>
+      <link>https://lexi.flvr.top/blog/post/rationally-grateful/</link>
       <pubDate>Fri, 18 Aug 2017 20:39:00 +0300</pubDate>
       
-      <guid>https://alex.flvr.top/blog/post/rationally-grateful/</guid>
+      <guid>https://lexi.flvr.top/blog/post/rationally-grateful/</guid>
       <description>And inspired by Eliezer Yudkowsky and Marshall Rosenberg.</description>
     </item>
     

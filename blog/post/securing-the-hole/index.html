@@ -9,27 +9,27 @@
 <meta name="description" content="Or at least trying to."/>
 <meta name="keywords" content="devops, security, programming, music, rationality, personal"/>
 <meta name="robots" content="noodp"/>
-<link rel="canonical" href="https://alex.flvr.top/blog/post/securing-the-hole/" />
+<link rel="canonical" href="https://lexi.flvr.top/blog/post/securing-the-hole/" />
 
 
-<link rel="stylesheet" href="https://alex.flvr.top/blog/assets/style.css">
+<link rel="stylesheet" href="https://lexi.flvr.top/blog/assets/style.css">
 
-  <link rel="stylesheet" href="https://alex.flvr.top/blog/assets/blue.css">
-
-
-
-<link rel="stylesheet" href="https://alex.flvr.top/blog/style.css">
+  <link rel="stylesheet" href="https://lexi.flvr.top/blog/assets/blue.css">
 
 
 
-<link rel="shortcut icon" href="https://alex.flvr.top/blog/img/favicon/blue.png">
+<link rel="stylesheet" href="https://lexi.flvr.top/blog/style.css">
+
+
+
+<link rel="shortcut icon" href="https://lexi.flvr.top/blog/img/favicon/blue.png">
 
 
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Securing the Hole :: Alexander Pavlenko — Blog" />
 <meta name="twitter:description" content="Or at least trying to." />
-<meta name="twitter:site" content="https://alex.flvr.top/blog/" />
+<meta name="twitter:site" content="https://lexi.flvr.top/blog/" />
 <meta name="twitter:creator" content="" />
 <meta name="twitter:image" content="">
 
@@ -38,7 +38,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Securing the Hole :: Alexander Pavlenko — Blog">
 <meta property="og:description" content="Or at least trying to." />
-<meta property="og:url" content="https://alex.flvr.top/blog/post/securing-the-hole/" />
+<meta property="og:url" content="https://lexi.flvr.top/blog/post/securing-the-hole/" />
 <meta property="og:site_name" content="Securing the Hole" />
 <meta property="og:image" content="">
 <meta property="og:image:width" content="2048">
@@ -79,7 +79,7 @@
     
 <div class="post">
   <h1 class="post-title">
-    <a href="https://alex.flvr.top/blog/post/securing-the-hole/">Securing the Hole</a></h1>
+    <a href="https://lexi.flvr.top/blog/post/securing-the-hole/">Securing the Hole</a></h1>
   <div class="post-meta">
       
     <span class="post-date">
@@ -92,11 +92,11 @@
   
   <span class="post-tags">
     
-    #<a href="https://alex.flvr.top/blog/tags/security/">security</a>&nbsp;
+    #<a href="https://lexi.flvr.top/blog/tags/security/">security</a>&nbsp;
     
-    #<a href="https://alex.flvr.top/blog/tags/encryption/">encryption</a>&nbsp;
+    #<a href="https://lexi.flvr.top/blog/tags/encryption/">encryption</a>&nbsp;
     
-    #<a href="https://alex.flvr.top/blog/tags/authentication/">authentication</a>&nbsp;
+    #<a href="https://lexi.flvr.top/blog/tags/authentication/">authentication</a>&nbsp;
     
   </span>
   
@@ -104,24 +104,24 @@
   
 
   <div class="post-content">
-    <p>Let's start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and an online store visited once few years ago. Carl uses the same credentials for each account, and the password is easy to remember – it's his birthday.</p>
-<p>Today Carl needs to sign up on a really important website. From muscle memory, the first intention is to reuse the good old login/password. But what if it's not so secret anymore? <a href="https://haveibeenpwned.com/">Have I Been Pwned</a> confirms his suspicion. Carl starts to consider his options:</p>
+    <p>Let&rsquo;s start by assuming a fictional character Carl who has a bunch of unimportant accounts, perhaps an email full of spam and an online store visited once few years ago. Carl uses the same credentials for each account, and the password is easy to remember – it&rsquo;s his birthday.</p>
+<p>Today Carl needs to sign up on a really important website. From muscle memory, the first intention is to reuse the good old login/password. But what if it&rsquo;s not so secret anymore? <a href="https://haveibeenpwned.com/">Have I Been Pwned</a> confirms his suspicion. Carl starts to consider his options:</p>
 <ul>
 <li>Make up a new password for each important account and remember it!</li>
-<li>Nope, I don't want to remember passwords which must contain a capital number, two hieroglyphs, an unprintable symbol, and the hyperspace.</li>
+<li>Nope, I don&rsquo;t want to remember passwords which must contain a capital number, two hieroglyphs, an unprintable symbol, and the hyperspace.</li>
 <li>I can write down them on the piece of paper. With multiple carbon copies to store in different places in case I lose some and then will have to change all the passwords just in case.</li>
-<li>Probably it's better to keep them encrypted and digital. Easy backups, fast copy-paste.</li>
+<li>Probably it&rsquo;s better to keep them encrypted and digital. Easy backups, fast copy-paste.</li>
 <li>I can use <a href="https://keepass.info/">KeePass</a> and have a nice big encrypted database, readable even on an ancient mobile phone with J2ME, Carl!<br>
 Still, it looks to me as an unnecessary risk to decrypt it all just to access a single secret. Computer, what do you think?</li>
 <li>Computer says: <a href="https://en.wikipedia.org/wiki/GNU_Privacy_Guard">GnuPG</a> + <a href="https://www.gopass.pw/">gopass</a></li>
-<li>Cool. Secrets are separated into many small files for independent decryption. And if it's too command-liny, I can use the front-ends Iike <a href="https://qtpass.org/">QtPass</a> and <a href="https://github.com/zeapo/Android-Password-Store">Android Password Store</a></li>
+<li>Cool. Secrets are separated into many small files for independent decryption. And if it&rsquo;s too command-liny, I can use the front-ends Iike <a href="https://qtpass.org/">QtPass</a> and <a href="https://github.com/zeapo/Android-Password-Store">Android Password Store</a></li>
 <li>At last! All seems in order.<br>
 But wait, what the 2FA is this thing?</li>
-<li>Oh noes, another password! It's generated by a website and shown to me only once to QR-scan or copy-paste into a special program. This master secret gets transformed into a continuous stream of 6-digit single-use passwords. New password each minute — impossibru to steal or brute-force!<br>
-Still, it's as secure as a storage of the master secret.</li>
+<li>Oh noes, another password! It&rsquo;s generated by a website and shown to me only once to QR-scan or copy-paste into a special program. This master secret gets transformed into a continuous stream of 6-digit single-use passwords. New password each minute — impossibru to steal or brute-force!<br>
+Still, it&rsquo;s as secure as a storage of the master secret.</li>
 <li>Enters U2F. Master secret is generated by a special hardware device and stored only in it. Login can be as simple as a hardware button press! I can check <a href="https://www.dongleauth.info/">DongleAuth</a> to see sites which have U2F support.</li>
 <li>Such device may have multiple functions, including GnuPG encryption.</li>
-<li>Unfortunately, the device can be broken or lost, as it's not embedded into my body yet. This means some backup authentication method or a paper backup of the master secret is still needed.</li>
+<li>Unfortunately, the device can be broken or lost, as it&rsquo;s not embedded into my body yet. This means some backup authentication method or a paper backup of the master secret is still needed.</li>
 </ul>
 <p>That was a lot of considering and Carl decides to switch his attention to some other things.</p>
 <p>P.S. <a href="https://www.wired.com/story/macos-update-undoes-apple-root-bug-patch/">Sometimes passwords are just not needed!</a></p>
@@ -137,7 +137,7 @@ Still, it's as secure as a storage of the master secret.</li>
     <div class="pagination__buttons">
       
       <span class="button previous">
-        <a href="https://alex.flvr.top/blog/post/baking-the-sonic-pie/">
+        <a href="https://lexi.flvr.top/blog/post/baking-the-sonic-pie/">
           <span class="button__icon">←</span>
           <span class="button__text">Baking the Sonic Pie</span>
         </a>
@@ -145,7 +145,7 @@ Still, it's as secure as a storage of the master secret.</li>
       
       
       <span class="button next">
-        <a href="https://alex.flvr.top/blog/post/rationally-grateful/">
+        <a href="https://lexi.flvr.top/blog/post/rationally-grateful/">
           <span class="button__text">Rationally Grateful</span>
           <span class="button__icon">→</span>
         </a>
@@ -173,14 +173,14 @@ Still, it's as secure as a storage of the master secret.</li>
   <div class="footer__inner">
     
       <div class="copyright copyright--user">
-        <span><div style="font-size:0.5rem"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Blog</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="https://alex.flvr.top/" property="cc:attributionName" rel="cc:attributionURL">Alexander Pavlenko</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></div></span>
+        <span><div style="font-size:0.5rem"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Blog</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="https://lexi.flvr.top/" property="cc:attributionName" rel="cc:attributionURL">Alexander Pavlenko</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></div></span>
       </div>
     
   </div>
 </footer>
 
-<script src="https://alex.flvr.top/blog/assets/main.js"></script>
-<script src="https://alex.flvr.top/blog/assets/prism.js"></script>
+<script src="https://lexi.flvr.top/blog/assets/main.js"></script>
+<script src="https://lexi.flvr.top/blog/assets/prism.js"></script>
 
 
 

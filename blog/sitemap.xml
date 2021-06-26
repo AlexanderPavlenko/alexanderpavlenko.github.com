@@ -1,195 +1,119 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://alex.flvr.top/blog/</loc>
+    <loc>https://lexi.flvr.top/blog/</loc>
     <lastmod>2020-02-17T17:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/defining-games/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/defining-games/</loc>
     <lastmod>2020-02-17T17:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/games/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/games/</loc>
     <lastmod>2020-02-17T17:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/</loc>
     <lastmod>2020-02-17T17:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/</loc>
     <lastmod>2020-02-17T17:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/values/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/values/</loc>
     <lastmod>2020-02-17T17:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/chaos/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/chaos/</loc>
     <lastmod>2020-02-05T04:20:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/humanism/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/humanism/</loc>
     <lastmod>2020-02-05T04:20:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/refining-humanism/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/refining-humanism/</loc>
     <lastmod>2020-02-05T04:20:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/stranger-than-kindness/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/stranger-than-kindness/</loc>
     <lastmod>2020-02-05T04:20:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/floating-in-somewhat-peculiar-way/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/floating-in-somewhat-peculiar-way/</loc>
     <lastmod>2019-11-15T21:05:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/lovecraft/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/lovecraft/</loc>
     <lastmod>2019-11-15T21:05:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/wait-but-why/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/wait-but-why/</loc>
     <lastmod>2019-11-15T21:05:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/playing-like-giants/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/playing-like-giants/</loc>
     <lastmod>2019-10-29T22:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/code/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/code/</loc>
     <lastmod>2019-10-19T13:45:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/fun/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/fun/</loc>
     <lastmod>2019-10-19T13:45:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/gardening-the-manifold/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/gardening-the-manifold/</loc>
     <lastmod>2019-10-19T13:45:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/expecting-excellence/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/expecting-excellence/</loc>
     <lastmod>2019-09-07T17:30:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/philosophy/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/philosophy/</loc>
     <lastmod>2019-09-07T17:30:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/comprehending-diversity/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/comprehending-diversity/</loc>
     <lastmod>2019-09-02T17:50:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/gender/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/gender/</loc>
     <lastmod>2019-09-02T17:50:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/blurring-the-line/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/blurring-the-line/</loc>
     <lastmod>2019-07-08T13:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/fiction/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/fiction/</loc>
     <lastmod>2019-07-08T13:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/music/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/music/</loc>
     <lastmod>2019-07-04T04:20:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/slicing-the-beat/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/slicing-the-beat/</loc>
     <lastmod>2019-07-04T04:20:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/climbing-the-tree/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/climbing-the-tree/</loc>
     <lastmod>2019-03-17T05:21:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/needs/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/needs/</loc>
     <lastmod>2019-03-17T05:21:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/visualize/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/visualize/</loc>
     <lastmod>2019-03-17T05:21:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/mapping-the-systems/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/mapping-the-systems/</loc>
     <lastmod>2019-03-17T05:12:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/toys/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/toys/</loc>
     <lastmod>2019-03-17T05:12:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/baking-the-sonic-pie/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/baking-the-sonic-pie/</loc>
     <lastmod>2019-02-18T21:21:42+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/authentication/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/authentication/</loc>
     <lastmod>2019-02-14T00:42:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/encryption/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/encryption/</loc>
     <lastmod>2019-02-14T00:42:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/securing-the-hole/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/securing-the-hole/</loc>
     <lastmod>2019-02-14T00:42:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/security/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/security/</loc>
     <lastmod>2019-02-14T00:42:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/less-wrong/</loc>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/less-wrong/</loc>
+    <lastmod>2017-08-18T20:39:00+03:00</lastmod>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/tags/nonviolent-communication/</loc>
+    <lastmod>2017-08-18T20:39:00+03:00</lastmod>
+  </url><url>
+    <loc>https://lexi.flvr.top/blog/post/rationally-grateful/</loc>
     <lastmod>2017-08-18T20:39:00+03:00</lastmod>
   </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/tags/nonviolent-communication/</loc>
-    <lastmod>2017-08-18T20:39:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alex.flvr.top/blog/post/rationally-grateful/</loc>
-    <lastmod>2017-08-18T20:39:00+03:00</lastmod>
-  </url>
-  
 </urlset>
