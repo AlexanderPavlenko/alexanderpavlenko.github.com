@@ -30,7 +30,19 @@
 {{ if .Site.Params.visual.image.enable }}
   <style>
   {{ if .Site.Params.visual.image.file }}
-    .fs-split .split-image { background-image: url(".{{ (resources.Get .Site.Params.visual.image.file | resources.Fingerprint "sha256").RelPermalink }}"); background-position: {{ if .Site.Params.visual.image.position }}{{ .Site.Params.visual.image.position }}{{ else }}center center{{ end }}; }
+    @keyframes rainbow {
+      0%{filter: hue-rotate(0deg);}
+      100%{filter: hue-rotate(360deg);}
+    }
+    .fs-split .split-content {
+      background-image: linear-gradient(hsla(0, 50%, 33%, 1), hsla(90, 50%, 33%, 1));
+      animation: 8s linear 0s infinite normal none running rainbow;
+    }
+    .fs-split .split-image {
+      background-image: url(".{{ (resources.Get .Site.Params.visual.image.file | resources.Fingerprint "sha256").RelPermalink }}");
+      animation: 8s ease-in 8s infinite normal none running rainbow;
+      background-position: {{ if .Site.Params.visual.image.position }}{{ .Site.Params.visual.image.position }}{{ else }}center center{{ end }};
+    }
   {{ end }}
   </style>
 {{ end }}

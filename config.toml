@@ -1,4 +1,4 @@
-baseURL = "https://alex.flvr.top/"
+baseURL = "https://lexi.flvr.top/"
 languageCode = "en-us"
 title = "Alexander Pavlenko"
 theme = "hugo-split-theme"
@@ -77,7 +77,7 @@ googleAnalytics = ""
 
       [[params.links.list4.link]]
         text = "Blog"
-        url = "https://alex.flvr.top/blog/"
+        url = "https://lexi.flvr.top/blog/"
 
       [[params.links.list4.link]]
         text = "Posts"
