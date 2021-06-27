@@ -1,4 +1,4 @@
-baseurl = "https://alex.flvr.top/blog/"
+baseurl = "https://lexi.flvr.top/blog/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 42
@@ -18,7 +18,7 @@ paginate = 42
     title = "Alexander Pavlenko"
     subtitle = "Blog"
     keywords = "devops, security, programming, music, rationality, personal"
-    copyright = '<div style="font-size:0.5rem"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Blog</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="https://alex.flvr.top/" property="cc:attributionName" rel="cc:attributionURL">Alexander Pavlenko</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></div>'
+    copyright = '<div style="font-size:0.5rem"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Blog</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="https://lexi.flvr.top/" property="cc:attributionName" rel="cc:attributionURL">Alexander Pavlenko</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></div>'
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"

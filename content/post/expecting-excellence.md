@@ -29,5 +29,6 @@ Since Rudd thinks of the Good as "an ultimate source of value," which "is itself
 
 [^Fatalistic Signalman]: [Fatalistic Signalman](https://sunlessskies.gamepedia.com/Fatalistic_Signalman) cannot agree. “His moustache is stained with nicotine. His Isambard Line uniform is neatly pressed. He always expects the worst, confident in the knowledge that he will still be disappointed.”
 [^1]: See especially Chapter 2, "Self-Choice or Self-Reception," of Mooney's Selves in Discord and Resolve (Routledge, 1996). Rudd's interpretation of Either/Or is also predominantly in line with the reading developed in Chapters 6 & 7 of Wisdom in Love by Rick Anthony Furtak (Notre Dame, 2005).
+
 [appreciate the distinctive worth of each and every person]: /blog/post/comprehending-diversity/
 [Rick Anthony Furtak's review]: https://ndpr.nd.edu/news/self-value-and-narrative-a-kierkegaardian-approach/
