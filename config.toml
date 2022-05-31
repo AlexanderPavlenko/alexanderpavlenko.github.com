@@ -80,10 +80,6 @@ googleAnalytics = ""
         url = "https://lexi.flvr.top/blog/"
 
       [[params.links.list4.link]]
-        text = "Posts"
-        url = "https://vk.com/wall7848621?own=1"
-
-      [[params.links.list4.link]]
         text = "Books"
         url = "https://readrate.com/rus/users/14776/books"
 
