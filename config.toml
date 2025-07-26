@@ -4,7 +4,6 @@ title = "Alexander Pavlenko"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 copyright = ""
-googleAnalytics = ""
 
 [params]
 

@@ -1,1 +1,1 @@
-dev-server: hugo server -D
+dev-server: hugo server --renderToMemory --buildDrafts --logLevel debug --bind 0.0.0.0 --baseURL 192.168.88.20/

@@ -22,7 +22,7 @@
 {{ with .Site.Params.favicon }}<link rel="icon" href=".{{ (resources.Get . | resources.Fingerprint "sha256").RelPermalink }}" />{{ end }}
 
 <!-- Styles -->
-{{ $style := resources.Get "sass/split.scss" | resources.ToCSS (dict "targetPath" "css/style.css") | resources.Minify | resources.Fingerprint "sha256" }}
+{{ $style := resources.Get "sass/split.scss" | css.Sass (dict "targetPath" "css/style.css") | resources.Minify | resources.Fingerprint "sha256" }}
 <link rel="stylesheet" href=".{{ $style.RelPermalink }}" type="text/css" media="screen" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 
@@ -45,9 +45,4 @@
     }
   {{ end }}
   </style>
-{{ end }}
-
-<!-- Google Analytics -->
-{{ if and (.Site.GoogleAnalytics) (not (in (printf "%#v" .Site.BaseURL) "localhost")) }}
-  {{ template "_internal/google_analytics.html" . }}
 {{ end }}

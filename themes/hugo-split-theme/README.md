@@ -173,15 +173,6 @@ copyright = "&copy;2017 Your Name"
 ```
 
 
-### Add Google Analytics
-
-Enable Google Analytics by adding your tracking id to `googleAnalytics`. Leave empty or remove if you don't want.
-
-```toml
-googleAnalytics = "UA-XXXXXXXX-1"
-```
-
-
 ### Nearly finished
 
 In order to see your site in action, run Hugo's built-in local server.
