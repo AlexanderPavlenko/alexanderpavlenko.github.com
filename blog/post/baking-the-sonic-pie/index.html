@@ -44,7 +44,7 @@
 <meta property="og:image:width" content="2048">
 <meta property="og:image:height" content="1024">
 
-<meta property="article:published_time" content="2019-02-18 21:21:42 &#43;0300 MSK" />
+<meta property="article:published_time" content="2019-02-18 21:21:42 &#43;0300 &#43;0300" />
 
 
 
@@ -104,13 +104,12 @@
   <div class="post-content">
     <p>There is already <a href="https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba">an article</a> which sings praises to <a href="https://www.ruby-lang.org/en/">Ruby</a>. <br>
 And so does the author of <a href="https://sonic-pi.net/">Sonic Pi</a>.</p>
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/0lTZ8Tuyu5I" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/0lTZ8Tuyu5I?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
 
 <p>Amazingly, <a href="https://www.ted.com/talks/steven_johnson_how_play_leads_to_great_inventions">the concept of programming is probably emerged along with the first musical machines</a>. These days, I see how code becomes the universal language which gets ideas across when nothing else can. And the music is the code of feelings. <br>
-Except when you have <a href="https://www.oliversacks.com/books-by-oliver-sacks/musicophilia/">&ldquo;amusia.&quot;</a></p>
+Except when you have <a href="https://www.oliversacks.com/books-by-oliver-sacks/musicophilia/">&ldquo;amusia.&rdquo;</a></p>
 <p>Today I got curious to explore Sonic Pi and its <a href="https://in-thread.sonic-pi.net/t/is-it-possible-to-control-via-sonic-pi-an-instrument-in-ableton/1878">integration with DAW via MIDI</a> in particular. This research was inspired by <a href="https://www.propellerheads.com/shop/rack-extension/drum-sequencer/">Propellerhead Sequencer</a>, and the goal was to implement a free analog on Ruby. <br>
 <a href="https://github.com/AlexanderPavlenko/sonic-pi-works/blob/master/Sequencer.rb">The result was satisfying!</a></p>
 <iframe 
@@ -125,10 +124,9 @@ src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/57
 <hr>
 <h2 id="with-comfort">With comfort</h2>
 <p>Sonic Pi looks nice, but its code editor is not yet as powerful as a professional IDE. So I started my <a href="https://www.jetbrains.com/ruby/">RubyMine</a>, and after a few edit-save-reload cycles, it became apparent that a bit more integration is needed. With a few <a href="https://in-thread.sonic-pi.net/t/buffer-autoreload-on-external-file-change-event/2075?u=alerticus">helpful hints</a> from the Sonic Pi community, I implemented a <a href="https://github.com/AlexanderPavlenko/sonic-pi-works/blob/master/autoreload.rb">reload function</a> which is triggered automatically when the file is saved. Also, I checked out Sonic Pi source code and extracted <a href="https://github.com/AlexanderPavlenko/sonic-pi-works/tree/master/stubs">documentation</a> from it. The <code>yard.rb</code> file, when placed into the project dir, does enable the smarts, like the code autocompletion, analysis, and instant help.</p>
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/DmvJsUnMjaI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/DmvJsUnMjaI?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
 
 <p>P.S. Sometimes writing code for fun is a nice break from writing code for a living!</p>
 

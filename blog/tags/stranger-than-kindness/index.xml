@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>stranger than kindness on Alexander Pavlenko</title>
+    <title>Stranger Than Kindness on Alexander Pavlenko</title>
     <link>https://lexi.flvr.top/blog/tags/stranger-than-kindness/</link>
-    <description>Recent content in stranger than kindness on Alexander Pavlenko</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <description>Recent content in Stranger Than Kindness on Alexander Pavlenko</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&lt;div style=&#34;font-size:0.5rem&#34;&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Blog&lt;/span&gt; by &lt;a xmlns:cc=&#34;https://creativecommons.org/ns#&#34; href=&#34;https://lexi.flvr.top/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Alexander Pavlenko&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;&lt;/div&gt;</copyright>
-    <lastBuildDate>Wed, 05 Feb 2020 04:20:00 +0300</lastBuildDate><atom:link href="https://lexi.flvr.top/blog/tags/stranger-than-kindness/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Feb 2020 04:20:00 +0300</lastBuildDate>
+    <atom:link href="https://lexi.flvr.top/blog/tags/stranger-than-kindness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Refining Humanism</title>
       <link>https://lexi.flvr.top/blog/post/refining-humanism/</link>
       <pubDate>Wed, 05 Feb 2020 04:20:00 +0300</pubDate>
-      
       <guid>https://lexi.flvr.top/blog/post/refining-humanism/</guid>
       <description>In the previous post I mentioned Humanism. Let&amp;rsquo;s review its Manifesto #3.</description>
     </item>
-    
     <item>
       <title>Playing like Giants</title>
       <link>https://lexi.flvr.top/blog/post/playing-like-giants/</link>
       <pubDate>Tue, 29 Oct 2019 22:00:00 +0300</pubDate>
-      
       <guid>https://lexi.flvr.top/blog/post/playing-like-giants/</guid>
       <description>Here goes a fragment from “A Game of Giants” by Tim Urban.</description>
     </item>
-    
   </channel>
 </rss>

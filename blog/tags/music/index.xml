@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>music on Alexander Pavlenko</title>
+    <title>Music on Alexander Pavlenko</title>
     <link>https://lexi.flvr.top/blog/tags/music/</link>
-    <description>Recent content in music on Alexander Pavlenko</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <description>Recent content in Music on Alexander Pavlenko</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&lt;div style=&#34;font-size:0.5rem&#34;&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Blog&lt;/span&gt; by &lt;a xmlns:cc=&#34;https://creativecommons.org/ns#&#34; href=&#34;https://lexi.flvr.top/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Alexander Pavlenko&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;&lt;/div&gt;</copyright>
-    <lastBuildDate>Thu, 04 Jul 2019 04:20:00 +0300</lastBuildDate><atom:link href="https://lexi.flvr.top/blog/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jul 2019 04:20:00 +0300</lastBuildDate>
+    <atom:link href="https://lexi.flvr.top/blog/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slicing the Beat</title>
       <link>https://lexi.flvr.top/blog/post/slicing-the-beat/</link>
       <pubDate>Thu, 04 Jul 2019 04:20:00 +0300</pubDate>
-      
       <guid>https://lexi.flvr.top/blog/post/slicing-the-beat/</guid>
       <description>In this post I will continue the exploration of Sonic Pi. So far, I wrote the sequencer, and then found myself reading about the polyrhythms.</description>
     </item>
-    
     <item>
       <title>Baking the Sonic Pie</title>
       <link>https://lexi.flvr.top/blog/post/baking-the-sonic-pie/</link>
       <pubDate>Mon, 18 Feb 2019 21:21:42 +0300</pubDate>
-      
       <guid>https://lexi.flvr.top/blog/post/baking-the-sonic-pie/</guid>
       <description>Today I got curious to explore Sonic Pi and its integration with DAW via MIDI in particular.</description>
     </item>
-    
   </channel>
 </rss>
